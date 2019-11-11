@@ -1,4 +1,4 @@
-package src.servidor;
+package src.servidor_seguro;
 
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
