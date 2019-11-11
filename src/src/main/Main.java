@@ -1,6 +1,6 @@
 package src.main;
 
-import src.cliente_seguro.Cliente;
+import src.cliente_inseguro.Cliente;
 
 import java.io.BufferedReader;
 import java.io.IOException;

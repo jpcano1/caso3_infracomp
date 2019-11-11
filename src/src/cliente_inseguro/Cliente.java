@@ -256,6 +256,7 @@ public class Cliente
 
             // Se envia la llave simetrica
             byte[] ks = symmetricKey.getEncoded();
+            System.out.println(ks);
             fromUser = DatatypeConverter.printBase64Binary(ks);
             pOut.println(fromUser);
 
