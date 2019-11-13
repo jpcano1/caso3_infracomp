@@ -204,7 +204,8 @@ public class D extends Thread {
 			byte[] recibo = S.ae(hmac, keyPairServidor.getPrivate(), algoritmos[2]);
 			ac.println(toHexString(recibo));
 			System.out.println(dlg + "envio hmac cifrado con llave privada del servidor. continuado.");
-			double elapsedTimeInSec = (System.nanoTime() - start) * 1.0e-9;
+			double elapsedTimeInSec = (System.nanoTime() - start);
+			
 			System.err.println("Elapsed Time: "+ elapsedTimeInSec);
 			System.err.println("Memory "+ getSystemCpuLoad());
 			//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
