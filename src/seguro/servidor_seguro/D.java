@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.lang.management.ManagementFactory;
 import java.net.Socket;
 import java.security.KeyPair;
 import java.security.cert.X509Certificate;
@@ -12,6 +13,7 @@ import java.util.Random;
 
 import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
+import javax.management.*;
 import javax.xml.bind.DatatypeConverter;
 
 public class D extends Thread {
@@ -59,7 +61,7 @@ public class D extends Thread {
 				nombre.equals(S.HMACSHA256) ||
 				nombre.equals(S.HMACSHA384) ||
 				nombre.equals(S.HMACSHA512)
-		));
+				));
 	}
 
 	/*
@@ -88,6 +90,7 @@ public class D extends Thread {
 		System.out.println(dlg + "Empezando atencion.");
 		try
 		{
+			getSystemCpuLoad();
 
 			PrintWriter ac = new PrintWriter(sc.getOutputStream() , true);
 			BufferedReader dc = new BufferedReader(new InputStreamReader(sc.getInputStream()));
@@ -144,6 +147,10 @@ public class D extends Thread {
 			/***** Fase 4: *****/
 			cadenas[3] = "";
 			linea = dc.readLine();
+			//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			long start = System.nanoTime(); 
+			// Segment to monitor
+
 			byte[] llaveSimetrica = S.ad(
 					toByteArray(linea),
 					keyPairServidor.getPrivate(), algoritmos[2] );
@@ -197,6 +204,10 @@ public class D extends Thread {
 			byte[] recibo = S.ae(hmac, keyPairServidor.getPrivate(), algoritmos[2]);
 			ac.println(toHexString(recibo));
 			System.out.println(dlg + "envio hmac cifrado con llave privada del servidor. continuado.");
+			double elapsedTimeInSec = (System.nanoTime() - start) * 1.0e-9;
+			System.err.println("Elapsed Time: "+ elapsedTimeInSec);
+			System.err.println("Memory "+ getSystemCpuLoad());
+			//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 			cadenas[7] = "";
 			linea = dc.readLine();
@@ -211,7 +222,7 @@ public class D extends Thread {
 			String mensajeTotal = "";
 			for (int i=0;i<numCadenas;i++) {
 				mensajeTotal += cadenas[i] + "\n";
-			
+
 			}
 			escribirMensaje(mensajeTotal);
 		} catch (Exception e) {
@@ -225,6 +236,37 @@ public class D extends Thread {
 
 	public static byte[] toByteArray(String s) {
 		return DatatypeConverter.parseBase64Binary(s);
+	}
+	public static double getProcessCpuLoad() throws Exception {
+
+	    MBeanServer mbs    = ManagementFactory.getPlatformMBeanServer();
+	    ObjectName name    = ObjectName.getInstance("java.lang:type=OperatingSystem");
+	    AttributeList list = mbs.getAttributes(name, new String[]{ "ProcessCpuLoad" });
+
+	    if (list.isEmpty())     return Double.NaN;
+
+	    Attribute att = (Attribute)list.get(0);
+	    Double value  = (Double)att.getValue();
+
+	    // usually takes a couple of seconds before we get real values
+	    if (value == -1.0)      return Double.NaN;
+	    // returns a percentage value with 1 decimal point precision
+	    return ((int)(value * 1000) / 10.0);
+	}
+	
+	public double getSystemCpuLoad() throws Exception {
+		MBeanServer mbs = ManagementFactory.getPlatformMBeanServer();
+		ObjectName name = ObjectName.getInstance("java.lang:type=OperatingSystem");
+		System.out.println(name);
+		AttributeList list = mbs.getAttributes(name, new String[]{ "SystemCpuLoad" });
+		System.err.println(list);
+		if (list.isEmpty()) return Double.NaN;
+		Attribute att = (Attribute)list.get(0);
+		Double value = (Double)att.getValue();
+		// usually takes a couple of seconds before we get real values
+		if (value == -1.0) return Double.NaN;
+		// returns a percentage value with 1 decimal point precision
+		return ((int)(value * 1000) / 10.0);
 	}
 
 }
