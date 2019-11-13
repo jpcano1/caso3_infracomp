@@ -68,7 +68,7 @@ public class D extends Thread {
 	 * - Debe conservar el metodo como está.
 	 * - Es el único metodo permitido para escribir en el log.
 	 */
-	private void escribirMensaje(String pCadena) {
+	private synchronized void  escribirMensaje(String pCadena) {
 
 		try {
 			FileWriter fw = new FileWriter(file,true);
@@ -208,10 +208,12 @@ public class D extends Thread {
 				System.out.println(cadenas[7]);
 			}
 			sc.close();
-
+			String mensajeTotal = "";
 			for (int i=0;i<numCadenas;i++) {
-				escribirMensaje(cadenas[i]);
+				mensajeTotal += cadenas[i] + "\n";
+			
 			}
+			escribirMensaje(mensajeTotal);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
