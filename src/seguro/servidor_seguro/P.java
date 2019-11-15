@@ -28,8 +28,8 @@ public class P {
 		System.out.println(MAESTRO + "Establezca puerto de conexion:");
 		InputStreamReader isr = new InputStreamReader(System.in);
 		BufferedReader br = new BufferedReader(isr);
-		int ip = Integer.parseInt(br.readLine());
-		System.out.println(MAESTRO + "Empezando servidor maestro en puerto " + ip);
+		int ip = 1111;
+		System.out.println(MAESTRO + "Empezando servidor maestro en puerto " + 1111);
 		// Adiciona la libreria como un proveedor de seguridad.
 		Security.addProvider(new org.bouncycastle.jce.provider.BouncyCastleProvider());		
 
@@ -48,7 +48,7 @@ public class P {
         
         D.init(certSer, keyPairServidor, file);
         
-        int numeroDeThreads = 1;
+        int numeroDeThreads = 2;
         final ExecutorService pool = Executors.newFixedThreadPool(numeroDeThreads);
         
 		// Crea el socket que escucha en el puerto seleccionado.

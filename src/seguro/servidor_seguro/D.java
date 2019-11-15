@@ -1,10 +1,6 @@
 package seguro.servidor_seguro;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
+import java.io.*;
 import java.lang.management.ManagementFactory;
 import java.net.Socket;
 import java.security.KeyPair;
@@ -209,6 +205,7 @@ public class D extends Thread {
 			System.err.println("Elapsed Time: "+ elapsedTimeInSec);
 			System.err.println("Memory "+ getSystemCpuLoad());
 			//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			printFile(dlg, getSystemCpuLoad(), elapsedTimeInSec);
 
 			cadenas[7] = "";
 			linea = dc.readLine();
@@ -270,4 +267,23 @@ public class D extends Thread {
 		return ((int)(value * 1000) / 10.0);
 	}
 
+	/**
+	 *
+	 * @param pMem
+	 * @param pTemp
+	 */
+	public void printFile(String pDelegado, double pMem, double pTemp)
+	{
+		File fl = new File("./data/Libro10.csv");
+		try
+		{
+			FileWriter fp = new FileWriter(fl, true);
+			fp.write(pDelegado + ";" + pMem + ";" + pTemp + "\n");
+			fp.close();
+		}
+		catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+	}
 }

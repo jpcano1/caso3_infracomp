@@ -1,10 +1,7 @@
 package inseguro.servidor_inseguro;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
+import java.io.*;
+import java.lang.management.ManagementFactory;
 import java.net.Socket;
 import java.security.KeyPair;
 import java.security.cert.X509Certificate;
@@ -12,6 +9,10 @@ import java.util.Random;
 
 import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
+import javax.management.Attribute;
+import javax.management.AttributeList;
+import javax.management.MBeanServer;
+import javax.management.ObjectName;
 import javax.xml.bind.DatatypeConverter;
 
 public class D extends Thread {
@@ -59,14 +60,14 @@ public class D extends Thread {
 				nombre.equals(S.HMACSHA256) ||
 				nombre.equals(S.HMACSHA384) ||
 				nombre.equals(S.HMACSHA512)
-				));
+		));
 	}
 
 	/*
 	 * Generacion del archivo log.
 	 * Nota:
-	 * - Debe conservar el metodo como está.
-	 * - Es el único metodo permitido para escribir en el log.
+	 * - Debe conservar el metodo como estÃ¡.
+	 * - Es el Ãºnico metodo permitido para escribir en el log.
 	 */
 	private synchronized void escribirMensaje(String pCadena) {
 
@@ -92,7 +93,7 @@ public class D extends Thread {
 			PrintWriter ac = new PrintWriter(sc.getOutputStream() , true);
 			BufferedReader dc = new BufferedReader(new InputStreamReader(sc.getInputStream()));
 
-			/***** Fase 1:  *****/
+			/** Fase 1:  **/
 			linea = dc.readLine();
 			cadenas[0] = "Fase1: ";
 			if (!linea.equals(HOLA)) {
@@ -105,7 +106,7 @@ public class D extends Thread {
 				System.out.println(cadenas[0]);
 			}
 
-			/***** Fase 2:  *****/
+			/** Fase 2:  **/
 			linea = dc.readLine();
 			cadenas[1] = "Fase2: ";
 			if (!(linea.contains(SEPARADOR) && linea.split(SEPARADOR)[0].equals(ALGORITMOS))) {
@@ -135,21 +136,23 @@ public class D extends Thread {
 			System.out.println(cadenas[1]);
 			ac.println(OK);
 
-			/***** Fase 3:  *****/
+			/** Fase 3:  **/
 			String testCert = toHexString(mybyte);
 			ac.println(testCert);
 			cadenas[2] = dlg + "envio certificado del servidor. continuando.";
 			System.out.println(cadenas[2] + testCert);
 
-			/***** Fase 4: *****/
+			/** Fase 4: **/
 			cadenas[3] = "";
 			linea = dc.readLine();
+			//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			long start = System.nanoTime();
 			byte[] llaveSimetrica = toByteArray(linea);
 			SecretKey simetrica = new SecretKeySpec(llaveSimetrica, 0, llaveSimetrica.length, algoritmos[1]);
 			cadenas[3] = dlg + " recibio y creo llave simetrica. continuando.";
 			System.out.println(cadenas[3]);
 
-			/***** Fase 5:  *****/
+			/** Fase 5:  **/
 			cadenas[4]="";
 			linea = dc.readLine();
 			System.out.println(dlg + "Recibio reto del cliente:-" + linea + "-");
@@ -165,7 +168,7 @@ public class D extends Thread {
 				throw new Exception(dlg + ERROR + " en confirmacion de llave simetrica." + REC + "-terminando.");
 			}
 
-			/***** Fase 6:  *****/
+			/** Fase 6:  **/
 			linea = dc.readLine();
 			System.out.println(dlg + "recibio cc y descifro:-" + linea + "-continuado.");
 
@@ -185,6 +188,13 @@ public class D extends Thread {
 			byte [] hmac = S.hdg(valorByte, simetrica, algoritmos[3]);
 			ac.println(toHexString(hmac));
 			System.out.println(dlg + "envio hmac cifrado con llave privada del servidor. continuado.");
+			double elapsedTimeInSec = (System.nanoTime() - start);
+
+			System.err.println("Elapsed Time: "+ elapsedTimeInSec);
+			System.err.println("Memory "+ getSystemCpuLoad());
+			//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+			printFile(dlg, getSystemCpuLoad(), elapsedTimeInSec);
 
 			cadenas[7] = "";
 			linea = dc.readLine();
@@ -215,4 +225,38 @@ public class D extends Thread {
 		return DatatypeConverter.parseBase64Binary(s);
 	}
 
+
+	public double getSystemCpuLoad() throws Exception {
+		MBeanServer mbs = ManagementFactory.getPlatformMBeanServer();
+		ObjectName name = ObjectName.getInstance("java.lang:type=OperatingSystem");
+		System.out.println(name);
+		AttributeList list = mbs.getAttributes(name, new String[]{ "SystemCpuLoad" });
+		if (list.isEmpty()) return Double.NaN;
+		Attribute att = (Attribute)list.get(0);
+		Double value = (Double)att.getValue();
+		// usually takes a couple of seconds before we get real values
+		if (value == -1.0) return Double.NaN;
+		// returns a percentage value with 1 decimal point precision
+		return ((int)(value * 1000) / 10.0);
+	}
+
+	/**
+	 *
+	 * @param pMem
+	 * @param pTemp
+	 */
+	public void printFile(String pDelegado, double pMem, double pTemp)
+	{
+		File fl = new File("./data/Libro10.csv");
+		try
+		{
+			FileWriter fp = new FileWriter(fl, true);
+			fp.write(pDelegado + ";" + pMem + ";" + pTemp + "\n");
+			fp.close();
+		}
+		catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+	}
 }
