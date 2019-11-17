@@ -1,401 +1,402 @@
-delegado;memoria;tiempo
-delegado 0: ;0.0;2.28210729E8
-delegado 1: ;0.0;9.7464623E7
-delegado 2: ;7.7;9.5464897E7
-delegado 3: ;7.7;9.6522299E7
-delegado 4: ;4.3;9.5362496E7
-delegado 5: ;4.3;9.6833887E7
-delegado 6: ;4.3;9.5982748E7
-delegado 7: ;0.9;9.2734228E7
-delegado 8: ;0.9;9.1735827E7
-delegado 9: ;0.9;9.1067789E7
-delegado 10: ;1.0;9.4111508E7
-delegado 11: ;1.0;9.3885498E7
-delegado 12: ;1.0;9.1479827E7
-delegado 13: ;2.0;8.9730249E7
-delegado 14: ;2.0;9.2515043E7
-delegado 15: ;2.0;9.3091653E7
-delegado 16: ;2.0;9.172705E7
-delegado 17: ;2.0;1.03290211E8
-delegado 18: ;2.0;8.4778962E7
-delegado 19: ;4.8;9.9084983E7
-delegado 20: ;4.8;9.9865173E7
-delegado 21: ;4.8;9.8156555E7
-delegado 22: ;6.7;1.00899414E8
-delegado 23: ;6.7;9.7947123E7
-delegado 24: ;6.7;9.9070597E7
-delegado 25: ;1.3;9.798345E7
-delegado 26: ;1.3;9.595471E7
-delegado 27: ;1.3;9.7358322E7
-delegado 28: ;1.7;9.606735E7
-delegado 29: ;1.7;9.5826222E7
-delegado 30: ;1.7;9.9068891E7
-delegado 31: ;3.6;9.4537688E7
-delegado 32: ;3.6;9.686412E7
-delegado 33: ;3.6;9.4990931E7
-delegado 34: ;2.3;9.4850252E7
-delegado 35: ;2.3;9.2163226E7
-delegado 36: ;2.3;9.5155014E7
-delegado 37: ;6.3;9.3017535E7
-delegado 38: ;6.3;9.1197008E7
-delegado 39: ;6.3;8.9707818E7
-delegado 40: ;2.3;8.966759E7
-delegado 41: ;2.3;9.0047445E7
-delegado 42: ;2.3;9.3193565E7
-delegado 43: ;2.9;1.04908864E8
-delegado 44: ;2.9;9.7816928E7
-delegado 45: ;2.9;9.880582E7
-delegado 46: ;6.1;9.8655634E7
-delegado 47: ;6.1;1.01503818E8
-delegado 48: ;6.1;9.5124294E7
-delegado 49: ;10.5;9.4831723E7
-delegado 50: ;10.5;9.4972156E7
-delegado 51: ;10.5;9.5537795E7
-delegado 52: ;11.4;9.6644691E7
-delegado 53: ;11.4;9.3753109E7
-delegado 54: ;11.4;9.7792303E7
-delegado 55: ;19.8;9.4398716E7
-delegado 56: ;19.8;9.4018373E7
-delegado 57: ;19.8;9.4557437E7
-delegado 58: ;20.1;9.3735799E7
-delegado 59: ;20.1;9.0159597E7
-delegado 60: ;20.1;9.028906E7
-delegado 61: ;5.6;9.0521655E7
-delegado 62: ;5.6;8.9325037E7
-delegado 63: ;5.6;8.8483162E7
-delegado 64: ;6.4;1.01067643E8
-delegado 65: ;6.4;9.9631848E7
-delegado 66: ;6.4;9.9327816E7
-delegado 67: ;9.4;9.9716449E7
-delegado 68: ;9.4;9.9139595E7
-delegado 69: ;9.4;9.9190552E7
-delegado 70: ;11.4;9.7137187E7
-delegado 71: ;11.4;9.7240806E7
-delegado 72: ;11.4;9.7762071E7
-delegado 73: ;8.3;9.7078185E7
-delegado 74: ;8.3;9.7450239E7
-delegado 75: ;8.3;9.5158672E7
-delegado 76: ;6.6;9.5710169E7
-delegado 77: ;6.6;9.6964326E7
-delegado 78: ;6.6;9.6583251E7
-delegado 79: ;9.3;9.494802E7
-delegado 80: ;9.3;9.5926428E7
-delegado 81: ;9.3;9.4145398E7
-delegado 82: ;8.3;9.4487464E7
-delegado 83: ;8.3;9.2638899E7
-delegado 84: ;8.3;9.2781527E7
-delegado 85: ;16.1;9.2822E7
-delegado 86: ;16.1;9.0287841E7
-delegado 87: ;16.1;9.0257609E7
-delegado 88: ;16.7;9.8127786E7
-delegado 89: ;16.7;9.0032572E7
-delegado 90: ;16.7;8.9413052E7
-delegado 91: ;14.3;9.1101922E7
-delegado 92: ;14.3;9.0422181E7
-delegado 93: ;14.3;1.06493626E8
-delegado 94: ;5.7;1.04735515E8
-delegado 95: ;5.7;8.8943719E7
-delegado 96: ;5.7;9.1092414E7
-delegado 97: ;5.5;9.3758716E7
-delegado 98: ;5.5;9.1955988E7
-delegado 99: ;5.5;9.0570417E7
-delegado 100: ;6.0;9.2908065E7
-delegado 101: ;6.0;9.4084202E7
-delegado 102: ;6.0;9.1180429E7
-delegado 103: ;6.3;9.017959E7
-delegado 104: ;6.3;9.0436809E7
-delegado 105: ;6.3;9.0847141E7
-delegado 106: ;5.8;9.2179317E7
-delegado 107: ;5.8;9.1297945E7
-delegado 108: ;5.8;9.2591599E7
-delegado 109: ;5.8;9.2317557E7
-delegado 110: ;5.8;9.250017E7
-delegado 111: ;5.8;9.6015418E7
-delegado 112: ;4.4;9.353563E7
-delegado 113: ;4.4;9.2812978E7
-delegado 114: ;4.4;9.1379378E7
-delegado 115: ;7.0;9.122212E7
-delegado 116: ;7.0;9.0759857E7
-delegado 117: ;7.0;9.1174822E7
-delegado 118: ;7.4;9.1822379E7
-delegado 119: ;7.4;8.9075864E7
-delegado 120: ;7.4;1.04978594E8
-delegado 121: ;8.7;8.9269936E7
-delegado 122: ;8.7;8.9956749E7
-delegado 123: ;8.7;8.9646867E7
-delegado 124: ;7.4;1.02587552E8
-delegado 125: ;7.4;1.02156009E8
-delegado 126: ;7.4;1.02050683E8
-delegado 127: ;11.5;1.02895971E8
-delegado 128: ;11.5;1.02600473E8
-delegado 129: ;11.5;1.0077434E8
-delegado 130: ;8.3;1.00898439E8
-delegado 131: ;8.3;1.15998059E8
-delegado 132: ;8.3;1.01102507E8
-delegado 133: ;9.7;1.04192307E8
-delegado 134: ;9.7;1.01087391E8
-delegado 135: ;9.7;9.8690742E7
-delegado 136: ;8.4;9.917251E7
-delegado 137: ;8.4;1.00395947E8
-delegado 138: ;8.4;1.00239665E8
-delegado 139: ;6.4;1.00601966E8
-delegado 140: ;6.4;9.8385249E7
-delegado 141: ;6.4;9.8206048E7
-delegado 142: ;9.6;9.819532E7
-delegado 143: ;9.6;9.7881781E7
-delegado 144: ;9.6;9.8297477E7
-delegado 145: ;5.7;9.2530403E7
-delegado 146: ;5.7;9.3031432E7
-delegado 147: ;5.7;9.3903052E7
-delegado 148: ;6.2;9.4045924E7
-delegado 149: ;6.2;9.4405299E7
-delegado 150: ;6.2;9.1796292E7
-delegado 151: ;8.0;9.1004398E7
-delegado 152: ;8.0;9.2710334E7
-delegado 153: ;8.0;9.1973054E7
-delegado 154: ;5.1;9.351637E7
-delegado 155: ;5.1;9.2451165E7
-delegado 156: ;5.1;8.8556549E7
-delegado 157: ;11.4;8.9260915E7
-delegado 158: ;11.4;8.979364E7
-delegado 159: ;11.4;9.1252353E7
-delegado 160: ;7.3;9.0800574E7
-delegado 161: ;7.3;1.02765533E8
-delegado 162: ;7.3;1.04859858E8
-delegado 163: ;9.3;9.0139849E7
-delegado 164: ;9.3;1.04727957E8
-delegado 165: ;9.3;1.04861808E8
-delegado 166: ;9.3;1.00263558E8
-delegado 167: ;9.3;1.00436419E8
-delegado 168: ;9.3;1.02462234E8
-delegado 169: ;6.8;1.02375438E8
-delegado 170: ;6.8;1.03150021E8
-delegado 171: ;6.8;1.01003277E8
-delegado 172: ;6.2;9.9871268E7
-delegado 173: ;6.2;9.8748281E7
-delegado 174: ;6.2;9.8796067E7
-delegado 175: ;11.1;9.851081E7
-delegado 176: ;11.1;9.8456441E7
-delegado 177: ;11.1;9.7072577E7
-delegado 178: ;7.3;9.7732082E7
-delegado 179: ;7.3;9.6998703E7
-delegado 180: ;7.3;9.7173515E7
-delegado 181: ;6.9;9.6974322E7
-delegado 182: ;6.9;9.7439999E7
-delegado 183: ;6.9;9.2753977E7
-delegado 184: ;6.2;9.2484079E7
-delegado 185: ;6.2;9.2361443E7
-delegado 186: ;6.2;9.2497732E7
-delegado 187: ;7.7;9.2441656E7
-delegado 188: ;7.7;1.05893123E8
-delegado 189: ;7.7;9.0549205E7
-delegado 190: ;9.4;9.0864696E7
-delegado 191: ;9.4;9.1515911E7
-delegado 192: ;9.4;9.0651119E7
-delegado 193: ;6.9;9.1540536E7
-delegado 194: ;6.9;8.9538127E7
-delegado 195: ;6.9;9.0007217E7
-delegado 196: ;8.4;8.951594E7
-delegado 197: ;8.4;1.02825511E8
-delegado 198: ;8.4;8.9817045E7
-delegado 199: ;9.8;9.212446E7
-delegado 200: ;9.8;9.3277436E7
-delegado 201: ;9.8;9.2053755E7
-delegado 202: ;10.7;9.2194677E7
-delegado 203: ;10.7;9.2015233E7
-delegado 204: ;10.7;9.0258585E7
-delegado 205: ;13.5;9.0183979E7
-delegado 206: ;13.5;8.9683925E7
-delegado 207: ;13.5;9.0621617E7
-delegado 208: ;6.6;8.8658218E7
-delegado 209: ;6.6;9.0197145E7
-delegado 210: ;6.6;9.3194784E7
-delegado 211: ;6.2;9.3713368E7
-delegado 212: ;6.2;9.4297048E7
-delegado 213: ;6.2;9.1866997E7
-delegado 214: ;6.2;9.1914539E7
-delegado 215: ;6.2;8.965223E7
-delegado 216: ;6.2;9.1555896E7
-delegado 217: ;4.8;9.0964414E7
-delegado 218: ;4.8;9.1001716E7
-delegado 219: ;4.8;8.9974547E7
-delegado 220: ;8.6;9.2388262E7
-delegado 221: ;8.6;9.230878E7
-delegado 222: ;8.6;9.1731195E7
-delegado 223: ;6.2;9.4437726E7
-delegado 224: ;6.2;9.2111294E7
-delegado 225: ;6.2;9.2661817E7
-delegado 226: ;9.0;8.8683818E7
-delegado 227: ;9.0;9.0829831E7
-delegado 228: ;9.0;8.9254089E7
-delegado 229: ;6.9;8.8315178E7
-delegado 230: ;6.9;8.9794859E7
-delegado 231: ;6.9;8.90193E7
-delegado 232: ;4.2;9.1659759E7
-delegado 233: ;4.2;9.279128E7
-delegado 234: ;4.2;9.1405222E7
-delegado 235: ;2.0;9.335131E7
-delegado 236: ;2.0;9.3559767E7
-delegado 237: ;2.0;9.0339773E7
-delegado 238: ;6.9;9.0302958E7
-delegado 239: ;6.9;8.9568846E7
-delegado 240: ;6.9;9.0876398E7
-delegado 241: ;5.5;9.0833244E7
-delegado 242: ;5.5;9.1477877E7
-delegado 243: ;5.5;9.2625977E7
-delegado 244: ;8.3;9.315163E7
-delegado 245: ;8.3;9.1141907E7
-delegado 246: ;8.3;9.2749831E7
-delegado 247: ;8.0;9.2469451E7
-delegado 248: ;8.0;8.9561777E7
-delegado 249: ;8.0;8.9674173E7
-delegado 250: ;6.3;8.8823033E7
-delegado 251: ;6.3;9.0625518E7
-delegado 252: ;6.3;8.9852641E7
-delegado 253: ;6.1;9.0206409E7
-delegado 254: ;6.1;1.03443324E8
-delegado 255: ;6.1;8.7574484E7
-delegado 256: ;7.0;1.0326388E8
-delegado 257: ;7.0;1.03229015E8
-delegado 258: ;7.0;8.8377593E7
-delegado 259: ;5.6;1.01596953E8
-delegado 260: ;5.6;1.02081647E8
-delegado 261: ;5.6;1.02379582E8
-delegado 262: ;8.7;1.02297907E8
-delegado 263: ;8.7;1.02753342E8
-delegado 264: ;8.7;1.00387169E8
-delegado 265: ;8.0;1.15700367E8
-delegado 266: ;8.0;1.00527117E8
-delegado 267: ;8.0;1.01102751E8
-delegado 268: ;10.6;1.00691445E8
-delegado 269: ;10.6;9.9308068E7
-delegado 270: ;10.6;9.8622476E7
-delegado 271: ;7.6;1.00837486E8
-delegado 272: ;7.6;1.01212709E8
-delegado 273: ;7.6;9.9850789E7
-delegado 274: ;6.4;9.3754328E7
-delegado 275: ;6.4;9.3363988E7
-delegado 276: ;6.4;9.1746068E7
-delegado 277: ;6.9;9.3067272E7
-delegado 278: ;6.9;9.3203318E7
-delegado 279: ;6.9;9.0665259E7
-delegado 280: ;6.5;9.1913808E7
-delegado 281: ;6.5;9.0488497E7
-delegado 282: ;6.5;9.165025E7
-delegado 283: ;7.3;9.1062669E7
-delegado 284: ;7.3;9.1728269E7
-delegado 285: ;7.3;9.0580657E7
-delegado 286: ;6.2;9.0058417E7
-delegado 287: ;6.2;9.2062532E7
-delegado 288: ;6.2;9.2238319E7
-delegado 289: ;6.6;9.1369869E7
-delegado 290: ;6.6;8.9100976E7
-delegado 291: ;6.6;8.9163148E7
-delegado 292: ;14.1;8.9047338E7
-delegado 293: ;14.1;8.9095612E7
-delegado 294: ;14.1;8.9231658E7
-delegado 295: ;8.7;9.1035606E7
-delegado 296: ;8.7;9.1021221E7
-delegado 297: ;8.7;1.06615532E8
-delegado 298: ;7.1;9.381016E7
-delegado 299: ;7.1;9.1662684E7
-delegado 300: ;7.1;9.3488331E7
-delegado 301: ;7.1;9.3029482E7
-delegado 302: ;7.1;1.081942E8
-delegado 303: ;7.1;9.3102624E7
-delegado 304: ;6.4;9.4727616E7
-delegado 305: ;6.4;9.3782122E7
-delegado 306: ;6.4;9.3357162E7
-delegado 307: ;5.1;9.1599782E7
-delegado 308: ;5.1;9.2488711E7
-delegado 309: ;5.1;9.1971835E7
-delegado 310: ;8.3;9.2612324E7
-delegado 311: ;8.3;9.3161139E7
-delegado 312: ;8.3;8.9870683E7
-delegado 313: ;7.0;9.0682082E7
-delegado 314: ;7.0;9.1366943E7
-delegado 315: ;7.0;1.03723218E8
-delegado 316: ;8.9;9.2165176E7
-delegado 317: ;8.9;9.1598319E7
-delegado 318: ;8.9;8.8845464E7
-delegado 319: ;5.4;9.0462654E7
-delegado 320: ;5.4;8.9789007E7
-delegado 321: ;5.4;9.0770097E7
-delegado 322: ;4.7;9.0658676E7
-delegado 323: ;4.7;9.0946128E7
-delegado 324: ;4.7;9.1103629E7
-delegado 325: ;10.8;9.1309892E7
-delegado 326: ;10.8;9.1985001E7
-delegado 327: ;10.8;9.1817504E7
-delegado 328: ;7.7;8.89425E7
-delegado 329: ;7.7;8.9607369E7
-delegado 330: ;7.7;8.9305533E7
-delegado 331: ;6.2;8.9964794E7
-delegado 332: ;6.2;9.0035499E7
-delegado 333: ;6.2;8.9164854E7
-delegado 334: ;5.5;9.3319371E7
-delegado 335: ;5.5;9.2332673E7
-delegado 336: ;5.5;9.2957557E7
-delegado 337: ;8.0;9.2588674E7
-delegado 338: ;8.0;9.2162739E7
-delegado 339: ;8.0;9.0343186E7
-delegado 340: ;8.1;1.05874594E8
-delegado 341: ;8.1;1.05808766E8
-delegado 342: ;8.1;9.1450082E7
-delegado 343: ;10.1;9.1952574E7
-delegado 344: ;10.1;9.0384878E7
-delegado 345: ;10.1;8.7552053E7
-delegado 346: ;7.0;8.9691971E7
-delegado 347: ;7.0;1.04472688E8
-delegado 348: ;7.0;1.02007285E8
-delegado 349: ;8.5;1.00664382E8
-delegado 350: ;8.5;9.4300462E7
-delegado 351: ;8.5;9.414808E7
-delegado 352: ;5.7;1.03657632E8
-delegado 353: ;5.7;1.04129161E8
-delegado 354: ;5.7;1.03340193E8
-delegado 355: ;7.3;9.2613055E7
-delegado 356: ;7.3;9.4256088E7
-delegado 357: ;7.3;9.3348141E7
-delegado 358: ;5.7;9.4822458E7
-delegado 359: ;5.7;9.2937321E7
-delegado 360: ;5.7;9.187041E7
-delegado 361: ;7.6;9.0230546E7
-delegado 362: ;7.6;9.1404734E7
-delegado 363: ;7.6;9.0981237E7
-delegado 364: ;5.1;9.03978E7
-delegado 365: ;5.1;9.0037205E7
-delegado 366: ;5.1;1.03484284E8
-delegado 367: ;8.0;1.0447537E8
-delegado 368: ;8.0;9.059943E7
-delegado 369: ;8.0;8.9570553E7
-delegado 370: ;5.5;8.9773404E7
-delegado 371: ;5.5;9.4481368E7
-delegado 372: ;5.5;9.2724231E7
-delegado 373: ;6.6;9.4385551E7
-delegado 374: ;6.6;9.3355699E7
-delegado 375: ;6.6;9.2275865E7
-delegado 376: ;11.5;9.3334731E7
-delegado 377: ;11.5;9.1689748E7
-delegado 378: ;11.5;9.1545899E7
-delegado 379: ;6.5;9.2688636E7
-delegado 380: ;6.5;9.150811E7
-delegado 381: ;6.5;9.1031461E7
-delegado 382: ;11.8;9.1913077E7
-delegado 383: ;11.8;9.165147E7
-delegado 384: ;11.8;9.2113733E7
-delegado 385: ;11.1;9.1327446E7
-delegado 386: ;11.1;9.2450434E7
-delegado 387: ;11.1;8.8493891E7
-delegado 388: ;5.7;8.9018568E7
-delegado 389: ;5.7;8.8404168E7
-delegado 390: ;5.7;8.8081852E7
-delegado 391: ;4.7;9.0132291E7
-delegado 392: ;4.7;9.0085236E7
-delegado 393: ;4.7;1.02619735E8
-delegado 394: ;7.9;1.02734813E8
-delegado 395: ;7.9;8.7363588E7
-delegado 396: ;7.9;1.0384561E8
-delegado 397: ;2.6;1.05577391E8
-delegado 398: ;2.6;9.2572338E7
-delegado 399: ;2.6;9.2494319E7
+;Experimento 1;;;Experimento 2;;;Experimento 3;;;Experimento 4;;;Experimento 5;;;Experimento 6;;;Experimento 7;;;Experimento 8;;;Experimento 9;
+delegado;memoria;tiempo;delegado;memoria;tiempo;Delegado;Memoria;Tiempo;Delegado;Memoria;Tiempo;delegado;Memoria;tiempo;delegado;memoria;tiempo;delegado;maquina;tiempo;delegado;memoria;tiempo;delegado;memoria;tiempo
+delegado 0: ;0.0;2,28E+16;delegado 0: ;0.0;2,35E+16;delegado 0: ;0;2.32E+08;delegado 0: ;0.0;2,47E+16;delegado 0: ;0.0;2,49E+16;delegado 0: ;0.0;2,50E+16;delegado 0: ;0.0;2,22E+16;delegado 0: ;0.0;2,47E+16;delegado 0: ;0.0;2,43E+16
+delegado 1: ;0.0;9,75E+14;delegado 1: ;0.0;1,01E+16;delegado 1: ;0;9.64E+07;delegado 1: ;17.5;9,92E+14;delegado 1: ;0.0;9,95E+14;delegado 1: ;10.2;9,83E+14;delegado 1: ;0.0;1,01E+16;delegado 1: ;11.0;9,24E+14;delegado 1: ;10.5;1,01E+16
+delegado 2: ;7.7;9,55E+14;delegado 2: ;9.1;9,93E+14;delegado 2: ;7.1;9.63E+07;delegado 2: ;17.5;9,93E+14;delegado 2: ;22.8;9,84E+14;delegado 2: ;10.2;9,85E+14;delegado 2: ;10.6;9,35E+14;delegado 2: ;11.0;9,90E+14;delegado 2: ;10.5;1,01E+16
+delegado 3: ;7.7;9,65E+14;delegado 3: ;9.1;9,88E+14;delegado 3: ;7.1;9.81E+07;delegado 3: ;17.5;1,01E+14;delegado 3: ;22.8;9,77E+14;delegado 3: ;10.2;1,01E+16;delegado 3: ;10.6;1,01E+16;delegado 3: ;11.0;1,07E+16;delegado 3: ;10.5;9,27E+14
+delegado 4: ;4.3;9,54E+14;delegado 4: ;2.2;9,65E+14;delegado 4: ;5.5;1.13E+08;delegado 4: ;6.5;1,02E+14;delegado 4: ;25.7;9,79E+13;delegado 4: ;2.3;9,92E+14;delegado 4: ;12.3;1,04E+16;delegado 4: ;6.5;1,02E+16;delegado 4: ;8.8;1,08E+16
+delegado 5: ;4.3;9,68E+14;delegado 5: ;2.2;9,87E+13;delegado 5: ;5.5;9.58E+07;delegado 5: ;6.5;1,03E+16;delegado 5: ;25.7;9,78E+14;delegado 5: ;2.3;9,78E+13;delegado 5: ;12.3;1,05E+16;delegado 5: ;6.5;1,01E+16;delegado 5: ;8.8;1,09E+16
+delegado 6: ;4.3;9,60E+14;delegado 6: ;2.2;9,63E+14;delegado 6: ;5.5;9.83E+07;delegado 6: ;6.5;9,79E+14;delegado 6: ;25.7;1,00E+16;delegado 6: ;2.3;1,02E+16;delegado 6: ;12.3;9,62E+14;delegado 6: ;6.5;9,05E+14;delegado 6: ;8.8;1,04E+16
+delegado 7: ;0.9;9,27E+14;delegado 7: ;3.4;9,47E+14;delegado 7: ;4.6;9.46E+07;delegado 7: ;5.7;1,02E+16;delegado 7: ;6.2;9,83E+14;delegado 7: ;3.1;9,76E+14;delegado 7: ;5.8;9,35E+14;delegado 7: ;13.8;9,32E+14;delegado 7: ;7.9;1,01E+16
+delegado 8: ;0.9;9,17E+14;delegado 8: ;3.4;9,47E+14;delegado 8: ;4.6;9.53E+07;delegado 8: ;5.7;9,76E+14;delegado 8: ;6.2;9,57E+14;delegado 8: ;3.1;9,68E+14;delegado 8: ;5.8;9,08E+14;delegado 8: ;13.8;9,51E+14;delegado 8: ;7.9;1,10E+15
+delegado 9: ;0.9;9,11E+14;delegado 9: ;3.4;9,72E+14;delegado 9: ;4.6;9.70E+07;delegado 9: ;5.7;1,03E+16;delegado 9: ;6.2;9,63E+14;delegado 9: ;3.1;9,60E+14;delegado 9: ;5.8;9,36E+14;delegado 9: ;13.8;1,02E+16;delegado 9: ;7.9;1,09E+16
+delegado 10: ;1.0;9,41E+14;delegado 10: ;5.2;9,47E+14;delegado 10: ;3.8;9.69E+07;delegado 10: ;4.5;1,01E+15;delegado 10: ;6.9;9,53E+14;delegado 10: ;6.1;9,37E+14;delegado 10: ;1.0;9,36E+14;delegado 10: ;15.2;1,03E+16;delegado 10: ;8.3;1,08E+16
+delegado 11: ;1.0;9,39E+14;delegado 11: ;5.2;9,66E+14;delegado 11: ;3.8;9.59E+07;delegado 11: ;4.5;9,39E+14;delegado 11: ;6.9;9,56E+14;delegado 11: ;6.1;9,59E+14;delegado 11: ;1.0;1,05E+16;delegado 11: ;15.2;1,00E+16;delegado 11: ;8.3;1,03E+16
+delegado 12: ;1.0;9,15E+14;delegado 12: ;5.2;9,52E+14;delegado 12: ;3.8;9.28E+07;delegado 12: ;4.5;1,05E+15;delegado 12: ;6.9;9,49E+14;delegado 12: ;6.1;9,53E+14;delegado 12: ;1.0;9,91E+14;delegado 12: ;15.2;9,95E+14;delegado 12: ;8.3;1,00E+16
+delegado 13: ;2.0;8,97E+14;delegado 13: ;8.0;9,94E+14;delegado 13: ;3.7;9.31E+07;delegado 13: ;9.7;1,01E+16;delegado 13: ;7.6;9,25E+14;delegado 13: ;5.2;9,60E+14;delegado 13: ;3.8;1,02E+16;delegado 13: ;13.8;9,01E+14;delegado 13: ;3.6;9,76E+14
+delegado 14: ;2.0;9,25E+14;delegado 14: ;8.0;1,02E+16;delegado 14: ;3.7;9.32E+07;delegado 14: ;9.7;1,02E+16;delegado 14: ;7.6;9,54E+14;delegado 14: ;5.2;9,37E+14;delegado 14: ;3.8;1,06E+16;delegado 14: ;13.8;9,44E+14;delegado 14: ;3.6;1,14E+16
+delegado 15: ;2.0;9,31E+14;delegado 15: ;8.0;1,03E+16;delegado 15: ;3.7;9.64E+07;delegado 15: ;9.7;1,02E+16;delegado 15: ;7.6;9,64E+14;delegado 15: ;5.2;9,78E+14;delegado 15: ;3.8;1,07E+16;delegado 15: ;13.8;1,01E+16;delegado 15: ;3.6;1,07E+15
+delegado 16: ;2.0;9,17E+13;delegado 16: ;3.3;9,94E+14;delegado 16: ;4.9;9.48E+07;delegado 16: ;6.6;9,82E+14;delegado 16: ;6.6;9,52E+14;delegado 16: ;12.8;9,44E+13;delegado 16: ;2.1;1,06E+16;delegado 16: ;14.5;1,02E+15;delegado 16: ;10.0;1,03E+16
+delegado 17: ;2.0;1,03E+16;delegado 17: ;3.3;9,92E+14;delegado 17: ;4.9;9.47E+07;delegado 17: ;6.6;8,94E+14;delegado 17: ;6.6;9,09E+14;delegado 17: ;12.8;9,26E+14;delegado 17: ;2.1;1,02E+16;delegado 17: ;14.5;1,02E+16;delegado 17: ;10.0;9,89E+14
+delegado 18: ;2.0;8,48E+14;delegado 18: ;3.3;9,89E+14;delegado 18: ;4.9;9.20E+07;delegado 18: ;6.6;1,03E+16;delegado 18: ;6.6;9,23E+14;delegado 18: ;12.8;9,38E+14;delegado 18: ;2.1;9,85E+13;delegado 18: ;14.5;1,01E+16;delegado 18: ;10.0;9,52E+14
+delegado 19: ;4.8;9,91E+14;delegado 19: ;3.4;1,02E+16;delegado 19: ;4.8;9.22E+07;delegado 19: ;5.1;9,92E+14;delegado 19: ;6.2;9,29E+14;delegado 19: ;4.9;9,16E+14;delegado 19: ;3.4;9,82E+14;delegado 19: ;14.5;1,02E+16;delegado 19: ;6.5;9,45E+14
+delegado 20: ;4.8;9,99E+14;delegado 20: ;3.4;9,86E+14;delegado 20: ;4.8;9.01E+07;delegado 20: ;5.1;1,05E+16;delegado 20: ;6.2;9,24E+14;delegado 20: ;4.9;9,22E+14;delegado 20: ;3.4;9,78E+14;delegado 20: ;14.5;1,01E+15;delegado 20: ;6.5;1,08E+16
+delegado 21: ;4.8;9,82E+14;delegado 21: ;3.4;9,66E+14;delegado 21: ;4.8;9.40E+07;delegado 21: ;5.1;1,02E+16;delegado 21: ;6.2;9,36E+14;delegado 21: ;4.9;9,11E+14;delegado 21: ;3.4;1,01E+16;delegado 21: ;14.5;1,01E+16;delegado 21: ;6.5;1,02E+15
+delegado 22: ;6.7;1,01E+16;delegado 22: ;4.1;9,96E+14;delegado 22: ;3.4;9.53E+07;delegado 22: ;2.5;1,03E+16;delegado 22: ;4.1;9,38E+14;delegado 22: ;3.4;9,42E+14;delegado 22: ;3.0;9,77E+14;delegado 22: ;19.6;1,02E+16;delegado 22: ;6.2;9,98E+14
+delegado 23: ;6.7;9,79E+14;delegado 23: ;4.1;9,70E+14;delegado 23: ;3.4;9.03E+07;delegado 23: ;2.5;1,02E+16;delegado 23: ;4.1;9,20E+14;delegado 23: ;3.4;9,20E+14;delegado 23: ;3.0;1,02E+16;delegado 23: ;19.6;9,88E+13;delegado 23: ;6.2;9,70E+13
+delegado 24: ;6.7;9,91E+14;delegado 24: ;4.1;9,32E+14;delegado 24: ;3.4;9.00E+07;delegado 24: ;2.5;1,02E+16;delegado 24: ;4.1;9,17E+14;delegado 24: ;3.4;9,09E+14;delegado 24: ;3.0;9,06E+14;delegado 24: ;19.6;1,01E+16;delegado 24: ;6.2;9,72E+14
+delegado 25: ;1.3;9,80E+13;delegado 25: ;2.4;9,29E+13;delegado 25: ;24.9;9.10E+07;delegado 25: ;2.8;1,00E+15;delegado 25: ;4.4;9,33E+14;delegado 25: ;9.4;9,28E+14;delegado 25: ;5.8;1,02E+16;delegado 25: ;27.0;8,94E+14;delegado 25: ;29.9;8,94E+14
+delegado 26: ;1.3;9,60E+13;delegado 26: ;2.4;9,97E+14;delegado 26: ;24.9;8.96E+07;delegado 26: ;2.8;1,00E+16;delegado 26: ;4.4;9,13E+14;delegado 26: ;9.4;9,18E+13;delegado 26: ;5.8;9,81E+14;delegado 26: ;27.0;1,01E+16;delegado 26: ;29.9;9,84E+14
+delegado 27: ;1.3;9,74E+14;delegado 27: ;2.4;9,19E+14;delegado 27: ;24.9;9.30E+07;delegado 27: ;2.8;9,83E+14;delegado 27: ;4.4;9,27E+13;delegado 27: ;9.4;9,09E+14;delegado 27: ;5.8;9,59E+14;delegado 27: ;27.0;1,02E+16;delegado 27: ;29.9;9,50E+14
+delegado 28: ;1.7;9,61E+13;delegado 28: ;3.6;8,98E+14;delegado 28: ;6.7;8.83E+07;delegado 28: ;4.2;1,01E+15;delegado 28: ;3.5;8,89E+14;delegado 28: ;3.4;9,13E+13;delegado 28: ;4.3;1,02E+16;delegado 28: ;14.6;1,02E+16;delegado 28: ;6.6;9,65E+14
+delegado 29: ;1.7;9,58E+14;delegado 29: ;3.6;1,06E+16;delegado 29: ;6.7;9.15E+07;delegado 29: ;4.2;9,99E+14;delegado 29: ;3.5;9,06E+14;delegado 29: ;3.4;9,05E+14;delegado 29: ;4.3;9,96E+14;delegado 29: ;14.6;9,81E+14;delegado 29: ;6.6;9,49E+14
+delegado 30: ;1.7;9,91E+14;delegado 30: ;3.6;9,07E+14;delegado 30: ;6.7;8.96E+07;delegado 30: ;4.2;9,79E+14;delegado 30: ;3.5;9,15E+14;delegado 30: ;3.4;9,06E+14;delegado 30: ;4.3;9,87E+14;delegado 30: ;14.6;9,58E+14;delegado 30: ;6.6;9,58E+13
+delegado 31: ;3.6;9,45E+14;delegado 31: ;1.4;8,93E+13;delegado 31: ;3.8;9.13E+07;delegado 31: ;5.9;9,87E+14;delegado 31: ;2.3;8,91E+14;delegado 31: ;3.0;9,21E+14;delegado 31: ;4.2;9,68E+14;delegado 31: ;3.5;9,75E+13;delegado 31: ;5.2;9,85E+14
+delegado 32: ;3.6;9,69E+13;delegado 32: ;1.4;9,02E+14;delegado 32: ;3.8;9.11E+07;delegado 32: ;5.9;1,01E+16;delegado 32: ;2.3;9,09E+14;delegado 32: ;3.0;8,93E+14;delegado 32: ;4.2;1,02E+16;delegado 32: ;3.5;9,84E+14;delegado 32: ;5.2;9,47E+14
+delegado 33: ;3.6;9,50E+14;delegado 33: ;1.4;1,04E+16;delegado 33: ;3.8;1.04E+08;delegado 33: ;5.9;9,77E+14;delegado 33: ;2.3;1,02E+16;delegado 33: ;3.0;9,07E+14;delegado 33: ;4.2;9,74E+13;delegado 33: ;3.5;9,94E+13;delegado 33: ;5.2;9,38E+14
+delegado 34: ;2.3;9,49E+14;delegado 34: ;2.8;1,04E+16;delegado 34: ;6.2;1.04E+08;delegado 34: ;5.3;9,79E+14;delegado 34: ;6.7;1,02E+16;delegado 34: ;2.4;8,82E+14;delegado 34: ;18.7;9,61E+14;delegado 34: ;4.8;9,15E+14;delegado 34: ;4.3;9,29E+14
+delegado 35: ;2.3;9,22E+14;delegado 35: ;2.8;1,02E+16;delegado 35: ;6.2;1.05E+08;delegado 35: ;5.3;9,77E+14;delegado 35: ;6.7;1,05E+16;delegado 35: ;2.4;8,91E+14;delegado 35: ;18.7;9,61E+14;delegado 35: ;4.8;1,01E+16;delegado 35: ;4.3;9,42E+13
+delegado 36: ;2.3;9,52E+14;delegado 36: ;2.8;1,02E+16;delegado 36: ;6.2;1.04E+08;delegado 36: ;5.3;9,70E+14;delegado 36: ;6.7;1,02E+15;delegado 36: ;2.4;1,03E+16;delegado 36: ;18.7;1,00E+16;delegado 36: ;4.8;9,79E+14;delegado 36: ;4.3;9,38E+14
+delegado 37: ;6.3;9,30E+14;delegado 37: ;3.9;9,33E+14;delegado 37: ;3.5;8.85E+07;delegado 37: ;7.6;9,61E+14;delegado 37: ;4.1;1,01E+16;delegado 37: ;3.2;1,06E+16;delegado 37: ;16.6;1,10E+16;delegado 37: ;3.7;9,99E+14;delegado 37: ;4.8;9,36E+14
+delegado 38: ;6.3;9,12E+14;delegado 38: ;3.9;1,00E+16;delegado 38: ;3.5;1.01E+08;delegado 38: ;7.6;1,06E+16;delegado 38: ;4.1;9,64E+14;delegado 38: ;3.2;1,04E+16;delegado 38: ;16.6;9,42E+14;delegado 38: ;3.7;1,05E+16;delegado 38: ;4.8;9,41E+14
+delegado 39: ;6.3;8,97E+14;delegado 39: ;3.9;9,68E+14;delegado 39: ;3.5;1.01E+08;delegado 39: ;7.6;1,04E+16;delegado 39: ;4.1;9,64E+14;delegado 39: ;3.2;1,03E+16;delegado 39: ;16.6;1,03E+16;delegado 39: ;3.7;1,02E+16;delegado 39: ;4.8;9,13E+14
+delegado 40: ;2.3;8,97E+13;delegado 40: ;2.1;1,01E+16;delegado 40: ;3.8;1.04E+08;delegado 40: ;6.0;1,20E+16;delegado 40: ;4.5;9,52E+14;delegado 40: ;6.4;1,03E+15;delegado 40: ;18.0;1,02E+16;delegado 40: ;4.7;1,06E+16;delegado 40: ;4.7;9,13E+14
+delegado 41: ;2.3;9,00E+14;delegado 41: ;2.1;9,32E+14;delegado 41: ;3.8;1.02E+08;delegado 41: ;6.0;1,01E+16;delegado 41: ;4.5;9,55E+13;delegado 41: ;6.4;1,02E+16;delegado 41: ;18.0;1,03E+15;delegado 41: ;4.7;8,81E+14;delegado 41: ;4.7;9,17E+14
+delegado 42: ;2.3;9,32E+14;delegado 42: ;2.1;9,08E+14;delegado 42: ;3.8;1.08E+08;delegado 42: ;6.0;1,05E+16;delegado 42: ;4.5;9,62E+14;delegado 42: ;6.4;1,04E+16;delegado 42: ;18.0;9,96E+14;delegado 42: ;4.7;1,04E+16;delegado 42: ;4.7;9,23E+14
+delegado 43: ;2.9;1,05E+16;delegado 43: ;4.0;9,05E+14;delegado 43: ;10.2;1.01E+08;delegado 43: ;5.7;1,18E+16;delegado 43: ;8.0;9,34E+14;delegado 43: ;4.6;1,03E+16;delegado 43: ;15.9;8,85E+14;delegado 43: ;3.5;1,02E+16;delegado 43: ;3.3;8,95E+14
+delegado 44: ;2.9;9,78E+14;delegado 44: ;4.0;9,20E+13;delegado 44: ;10.2;1.01E+08;delegado 44: ;5.7;1,19E+16;delegado 44: ;8.0;9,37E+14;delegado 44: ;4.6;1,01E+16;delegado 44: ;15.9;1,01E+16;delegado 44: ;3.5;9,73E+14;delegado 44: ;3.3;9,14E+14
+delegado 45: ;2.9;9,88E+13;delegado 45: ;4.0;9,61E+14;delegado 45: ;10.2;1.05E+08;delegado 45: ;5.7;1,21E+16;delegado 45: ;8.0;1,07E+16;delegado 45: ;4.6;1,03E+16;delegado 45: ;15.9;9,97E+14;delegado 45: ;3.5;9,95E+14;delegado 45: ;3.3;9,17E+14
+delegado 46: ;6.1;9,87E+14;delegado 46: ;8.4;9,52E+14;delegado 46: ;5.7;1.02E+08;delegado 46: ;2.3;1,01E+16;delegado 46: ;42.6;9,40E+14;delegado 46: ;3.4;1,04E+16;delegado 46: ;14.2;1,00E+15;delegado 46: ;4.4;9,70E+14;delegado 46: ;3.7;9,33E+14
+delegado 47: ;6.1;1,02E+16;delegado 47: ;8.4;9,57E+13;delegado 47: ;5.7;1.01E+08;delegado 47: ;2.3;1,18E+15;delegado 47: ;42.6;9,35E+14;delegado 47: ;3.4;1,03E+16;delegado 47: ;14.2;9,79E+14;delegado 47: ;4.4;9,43E+14;delegado 47: ;3.7;1,04E+16
+delegado 48: ;6.1;9,51E+14;delegado 48: ;8.4;9,50E+13;delegado 48: ;5.7;9.97E+07;delegado 48: ;2.3;1,18E+16;delegado 48: ;42.6;9,16E+14;delegado 48: ;3.4;9,98E+14;delegado 48: ;14.2;9,11E+14;delegado 48: ;4.4;9,88E+13;delegado 48: ;3.7;1,05E+16
+delegado 49: ;10.5;9,48E+14;delegado 49: ;8.0;9,26E+14;delegado 49: ;10.4;1.00E+08;delegado 49: ;2.6;1,03E+15;delegado 49: ;10.7;9,35E+14;delegado 49: ;2.2;1,01E+16;delegado 49: ;4.1;9,66E+14;delegado 49: ;4.5;9,88E+14;delegado 49: ;4.9;1,05E+16
+delegado 50: ;10.5;9,50E+14;delegado 50: ;8.0;9,00E+14;delegado 50: ;10.4;9.96E+07;delegado 50: ;2.6;9,39E+14;delegado 50: ;10.7;9,27E+14;delegado 50: ;2.2;1,01E+16;delegado 50: ;4.1;9,96E+14;delegado 50: ;4.5;1,01E+16;delegado 50: ;4.9;1,04E+16
+delegado 51: ;10.5;9,55E+14;delegado 51: ;8.0;9,51E+14;delegado 51: ;10.4;9.87E+07;delegado 51: ;2.6;9,13E+14;delegado 51: ;10.7;9,49E+14;delegado 51: ;2.2;1,01E+16;delegado 51: ;4.1;1,01E+16;delegado 51: ;4.5;9,51E+14;delegado 51: ;4.9;1,01E+14
+delegado 52: ;11.4;9,66E+14;delegado 52: ;7.2;9,55E+14;delegado 52: ;11.1;1.01E+08;delegado 52: ;3.1;9,07E+13;delegado 52: ;5.3;9,66E+14;delegado 52: ;5.5;1,01E+16;delegado 52: ;4.1;9,79E+13;delegado 52: ;2.2;1,04E+15;delegado 52: ;5.4;1,03E+16
+delegado 53: ;11.4;9,38E+14;delegado 53: ;7.2;9,82E+14;delegado 53: ;11.1;9.75E+07;delegado 53: ;3.1;9,25E+14;delegado 53: ;5.3;9,29E+14;delegado 53: ;5.5;9,87E+14;delegado 53: ;4.1;9,99E+14;delegado 53: ;2.2;9,69E+14;delegado 53: ;5.4;1,03E+16
+delegado 54: ;11.4;9,78E+14;delegado 54: ;7.2;9,92E+14;delegado 54: ;11.1;1.02E+08;delegado 54: ;3.1;9,55E+14;delegado 54: ;5.3;9,71E+12;delegado 54: ;5.5;1,02E+16;delegado 54: ;4.1;1,01E+16;delegado 54: ;2.2;9,76E+14;delegado 54: ;5.4;1,04E+16
+delegado 55: ;19.8;9,44E+14;delegado 55: ;9.4;9,50E+14;delegado 55: ;6.5;9.95E+07;delegado 55: ;3.5;1,16E+16;delegado 55: ;3.8;9,38E+14;delegado 55: ;5.8;1,01E+16;delegado 55: ;4.1;9,34E+14;delegado 55: ;0.3;9,30E+14;delegado 55: ;7.3;1,03E+16
+delegado 56: ;19.8;9,40E+14;delegado 56: ;9.4;9,34E+14;delegado 56: ;6.5;9.92E+07;delegado 56: ;3.5;1,12E+16;delegado 56: ;3.8;9,24E+14;delegado 56: ;5.8;9,93E+13;delegado 56: ;4.1;9,88E+14;delegado 56: ;0.3;9,13E+13;delegado 56: ;7.3;1,03E+16
+delegado 57: ;19.8;9,46E+14;delegado 57: ;9.4;9,45E+14;delegado 57: ;6.5;9.75E+07;delegado 57: ;3.5;1,08E+16;delegado 57: ;3.8;9,50E+14;delegado 57: ;5.8;9,98E+14;delegado 57: ;4.1;9,53E+14;delegado 57: ;0.3;8,99E+14;delegado 57: ;7.3;1,01E+16
+delegado 58: ;20.1;9,37E+14;delegado 58: ;6.2;9,29E+14;delegado 58: ;10.4;9.70E+07;delegado 58: ;5.5;1,03E+16;delegado 58: ;9.4;9,58E+14;delegado 58: ;3.4;9,87E+14;delegado 58: ;3.3;9,56E+14;delegado 58: ;2.4;1,02E+16;delegado 58: ;6.3;1,00E+16
+delegado 59: ;20.1;9,02E+14;delegado 59: ;6.2;9,23E+14;delegado 59: ;10.4;9.92E+07;delegado 59: ;5.5;1,20E+16;delegado 59: ;9.4;8,98E+14;delegado 59: ;3.4;9,88E+14;delegado 59: ;3.3;1,05E+16;delegado 59: ;2.4;1,01E+16;delegado 59: ;6.3;9,93E+14
+delegado 60: ;20.1;9,03E+13;delegado 60: ;6.2;9,32E+14;delegado 60: ;10.4;9.96E+07;delegado 60: ;5.5;1,02E+16;delegado 60: ;9.4;9,03E+14;delegado 60: ;3.4;9,74E+14;delegado 60: ;3.3;9,11E+14;delegado 60: ;2.4;1,01E+16;delegado 60: ;6.3;9,99E+14
+delegado 61: ;5.6;9,05E+14;delegado 61: ;6.9;9,35E+14;delegado 61: ;5.9;9.97E+07;delegado 61: ;4.1;9,38E+14;delegado 61: ;7.6;9,26E+14;delegado 61: ;12.5;9,95E+14;delegado 61: ;2.3;9,53E+14;delegado 61: ;1.7;1,03E+16;delegado 61: ;5.9;1,02E+16
+delegado 62: ;5.6;8,93E+14;delegado 62: ;6.9;9,37E+14;delegado 62: ;5.9;9.68E+07;delegado 62: ;4.1;1,08E+16;delegado 62: ;7.6;9,03E+13;delegado 62: ;12.5;9,77E+14;delegado 62: ;2.3;9,61E+14;delegado 62: ;1.7;1,02E+15;delegado 62: ;5.9;9,99E+13
+delegado 63: ;5.6;8,85E+14;delegado 63: ;6.9;9,15E+14;delegado 63: ;5.9;9.86E+07;delegado 63: ;4.1;1,06E+16;delegado 63: ;7.6;9,37E+14;delegado 63: ;12.5;9,78E+14;delegado 63: ;2.3;9,80E+14;delegado 63: ;1.7;1,02E+16;delegado 63: ;5.9;9,74E+14
+delegado 64: ;6.4;1,01E+16;delegado 64: ;10.1;9,11E+14;delegado 64: ;6.2;9.43E+07;delegado 64: ;5.0;1,07E+16;delegado 64: ;9.4;1,01E+16;delegado 64: ;2.6;9,36E+14;delegado 64: ;3.0;9,98E+14;delegado 64: ;4.4;9,17E+13;delegado 64: ;4.9;9,74E+14
+delegado 65: ;6.4;9,96E+14;delegado 65: ;10.1;9,27E+13;delegado 65: ;6.2;9.43E+07;delegado 65: ;5.0;1,03E+16;delegado 65: ;9.4;1,00E+16;delegado 65: ;2.6;9,37E+14;delegado 65: ;3.0;1,05E+16;delegado 65: ;4.4;9,43E+14;delegado 65: ;4.9;1,00E+16
+delegado 66: ;6.4;9,93E+14;delegado 66: ;10.1;9,12E+14;delegado 66: ;6.2;9.49E+07;delegado 66: ;5.0;1,03E+16;delegado 66: ;9.4;1,02E+16;delegado 66: ;2.6;9,36E+14;delegado 66: ;3.0;9,71E+13;delegado 66: ;4.4;9,95E+14;delegado 66: ;4.9;1,00E+16
+delegado 67: ;9.4;9,97E+14;delegado 67: ;6.6;9,11E+14;delegado 67: ;5.1;9.21E+07;delegado 67: ;7.5;1,18E+16;delegado 67: ;7.3;1,00E+16;delegado 67: ;2.5;9,36E+14;delegado 67: ;3.4;9,94E+14;delegado 67: ;2.1;9,81E+14;delegado 67: ;4.9;9,80E+14
+delegado 68: ;9.4;9,91E+14;delegado 68: ;6.6;9,03E+14;delegado 68: ;5.1;9.31E+07;delegado 68: ;7.5;1,19E+16;delegado 68: ;7.3;1,03E+16;delegado 68: ;2.5;9,36E+14;delegado 68: ;3.4;1,05E+16;delegado 68: ;2.1;9,09E+14;delegado 68: ;4.9;9,69E+13
+delegado 69: ;9.4;9,92E+14;delegado 69: ;6.6;9,05E+14;delegado 69: ;5.1;9.12E+07;delegado 69: ;7.5;1,21E+15;delegado 69: ;7.3;9,77E+14;delegado 69: ;2.5;9,22E+14;delegado 69: ;3.4;1,03E+16;delegado 69: ;2.1;8,78E+14;delegado 69: ;4.9;9,60E+14
+delegado 70: ;11.4;9,71E+14;delegado 70: ;7.2;9,01E+14;delegado 70: ;6.5;9.05E+07;delegado 70: ;3.5;1,04E+16;delegado 70: ;5.4;9,82E+14;delegado 70: ;1.7;8,99E+14;delegado 70: ;1.6;9,27E+14;delegado 70: ;6.5;9,57E+14;delegado 70: ;8.6;9,63E+14
+delegado 71: ;11.4;9,72E+14;delegado 71: ;7.2;9,03E+14;delegado 71: ;6.5;9.35E+07;delegado 71: ;3.5;1,21E+16;delegado 71: ;5.4;9,99E+13;delegado 71: ;1.7;9,27E+14;delegado 71: ;1.6;9,86E+14;delegado 71: ;6.5;1,06E+16;delegado 71: ;8.6;9,75E+14
+delegado 72: ;11.4;9,78E+14;delegado 72: ;7.2;9,06E+14;delegado 72: ;6.5;9.30E+07;delegado 72: ;3.5;1,16E+16;delegado 72: ;5.4;9,72E+14;delegado 72: ;1.7;9,21E+14;delegado 72: ;1.6;1,01E+16;delegado 72: ;6.5;9,87E+14;delegado 72: ;8.6;9,88E+14
+delegado 73: ;8.3;9,71E+14;delegado 73: ;9.1;1,06E+16;delegado 73: ;0.7;9.33E+07;delegado 73: ;3.7;1,04E+16;delegado 73: ;7.6;9,83E+14;delegado 73: ;0.3;9,02E+14;delegado 73: ;2.2;1,01E+16;delegado 73: ;2.0;9,76E+14;delegado 73: ;3.1;9,53E+14
+delegado 74: ;8.3;9,75E+14;delegado 74: ;9.1;1,04E+16;delegado 74: ;0.7;9.09E+07;delegado 74: ;3.7;1,05E+15;delegado 74: ;7.6;9,79E+14;delegado 74: ;0.3;9,22E+14;delegado 74: ;2.2;9,29E+14;delegado 74: ;2.0;9,50E+14;delegado 74: ;3.1;9,55E+14
+delegado 75: ;8.3;9,52E+14;delegado 75: ;9.1;8,84E+14;delegado 75: ;0.7;9.21E+07;delegado 75: ;3.7;1,02E+15;delegado 75: ;7.6;9,66E+14;delegado 75: ;0.3;8,80E+14;delegado 75: ;2.2;9,69E+14;delegado 75: ;2.0;1,05E+16;delegado 75: ;3.1;9,32E+14
+delegado 76: ;6.6;9,57E+14;delegado 76: ;8.2;8,87E+14;delegado 76: ;3.2;9.26E+07;delegado 76: ;3.7;1,02E+16;delegado 76: ;5.9;9,81E+14;delegado 76: ;3.4;1,05E+16;delegado 76: ;4.9;1,02E+16;delegado 76: ;4.4;1,00E+15;delegado 76: ;5.5;9,41E+14
+delegado 77: ;6.6;9,70E+14;delegado 77: ;8.2;1,04E+16;delegado 77: ;3.2;9.15E+07;delegado 77: ;3.7;9,93E+14;delegado 77: ;5.9;9,59E+14;delegado 77: ;3.4;1,05E+16;delegado 77: ;4.9;9,77E+14;delegado 77: ;4.4;1,02E+16;delegado 77: ;5.5;9,38E+14
+delegado 78: ;6.6;9,66E+14;delegado 78: ;8.2;1,02E+16;delegado 78: ;3.2;9.35E+07;delegado 78: ;3.7;1,01E+16;delegado 78: ;5.9;9,76E+14;delegado 78: ;3.4;8,95E+13;delegado 78: ;4.9;1,03E+16;delegado 78: ;4.4;1,04E+16;delegado 78: ;5.5;9,65E+14
+delegado 79: ;9.3;9,49E+13;delegado 79: ;7.0;1,02E+16;delegado 79: ;4.5;9.06E+07;delegado 79: ;1.3;1,03E+16;delegado 79: ;7.2;9,55E+14;delegado 79: ;3.3;8,77E+14;delegado 79: ;2.0;1,03E+16;delegado 79: ;2.1;1,05E+16;delegado 79: ;5.5;9,20E+14
+delegado 80: ;9.3;9,59E+14;delegado 80: ;7.0;1,04E+16;delegado 80: ;4.5;8.98E+07;delegado 80: ;1.3;1,01E+16;delegado 80: ;7.2;9,08E+14;delegado 80: ;3.3;9,33E+14;delegado 80: ;2.0;1,00E+16;delegado 80: ;2.1;9,46E+14;delegado 80: ;5.5;9,14E+14
+delegado 81: ;9.3;9,41E+14;delegado 81: ;7.0;1,04E+16;delegado 81: ;4.5;9.09E+07;delegado 81: ;1.3;9,69E+14;delegado 81: ;7.2;9,18E+14;delegado 81: ;3.3;9,38E+14;delegado 81: ;2.0;9,83E+14;delegado 81: ;2.1;9,43E+14;delegado 81: ;5.5;9,44E+14
+delegado 82: ;8.3;9,45E+14;delegado 82: ;9.2;1,02E+16;delegado 82: ;1.3;9.21E+07;delegado 82: ;6.4;9,61E+14;delegado 82: ;9.1;9,15E+14;delegado 82: ;3.6;9,26E+14;delegado 82: ;2.7;1,01E+16;delegado 82: ;1.0;9,79E+14;delegado 82: ;5.9;9,42E+14
+delegado 83: ;8.3;9,26E+14;delegado 83: ;9.2;1,01E+16;delegado 83: ;1.3;8.85E+07;delegado 83: ;6.4;9,59E+14;delegado 83: ;9.1;9,19E+14;delegado 83: ;3.6;9,16E+14;delegado 83: ;2.7;9,16E+14;delegado 83: ;1.0;9,29E+14;delegado 83: ;5.9;9,20E+14
+delegado 84: ;8.3;9,28E+14;delegado 84: ;9.2;1,02E+16;delegado 84: ;1.3;8.99E+07;delegado 84: ;6.4;9,70E+14;delegado 84: ;9.1;9,14E+14;delegado 84: ;3.6;9,14E+14;delegado 84: ;2.7;9,20E+14;delegado 84: ;1.0;1,02E+15;delegado 84: ;5.9;9,20E+14
+delegado 85: ;16.1;9,28E+11;delegado 85: ;8.6;1,01E+16;delegado 85: ;5.4;8.95E+07;delegado 85: ;3.6;9,42E+14;delegado 85: ;3.8;8,86E+14;delegado 85: ;7.1;9,17E+14;delegado 85: ;0.6;9,91E+14;delegado 85: ;5.0;9,51E+14;delegado 85: ;4.1;9,04E+14
+delegado 86: ;16.1;9,03E+14;delegado 86: ;8.6;1,02E+16;delegado 86: ;5.4;1.05E+08;delegado 86: ;3.6;9,59E+14;delegado 86: ;3.8;8,84E+14;delegado 86: ;7.1;9,02E+14;delegado 86: ;0.6;1,01E+16;delegado 86: ;5.0;9,24E+14;delegado 86: ;4.1;9,13E+14
+delegado 87: ;16.1;9,03E+14;delegado 87: ;8.6;9,86E+14;delegado 87: ;5.4;1.05E+08;delegado 87: ;3.6;9,38E+14;delegado 87: ;3.8;8,96E+14;delegado 87: ;7.1;9,12E+14;delegado 87: ;0.6;1,04E+16;delegado 87: ;5.0;1,01E+16;delegado 87: ;4.1;9,03E+14
+delegado 88: ;16.7;9,81E+14;delegado 88: ;9.1;9,73E+14;delegado 88: ;5.7;1.06E+08;delegado 88: ;6.8;9,23E+14;delegado 88: ;1.4;8,97E+14;delegado 88: ;2.2;8,92E+14;delegado 88: ;12.5;9,40E+14;delegado 88: ;10.4;1,01E+16;delegado 88: ;2.0;9,09E+13
+delegado 89: ;16.7;9,00E+14;delegado 89: ;9.1;9,78E+14;delegado 89: ;5.7;8.79E+07;delegado 89: ;6.8;9,51E+14;delegado 89: ;1.4;9,14E+14;delegado 89: ;2.2;9,12E+14;delegado 89: ;12.5;1,02E+16;delegado 89: ;10.4;9,40E+14;delegado 89: ;2.0;9,14E+14
+delegado 90: ;16.7;8,94E+14;delegado 90: ;9.1;9,71E+14;delegado 90: ;5.7;1.05E+08;delegado 90: ;6.8;9,31E+13;delegado 90: ;1.4;8,96E+14;delegado 90: ;2.2;9,19E+14;delegado 90: ;12.5;9,88E+14;delegado 90: ;10.4;9,25E+14;delegado 90: ;2.0;8,98E+13
+delegado 91: ;14.3;9,11E+14;delegado 91: ;6.9;9,80E+14;delegado 91: ;2.2;1.02E+08;delegado 91: ;2.4;9,34E+14;delegado 91: ;0.6;9,09E+13;delegado 91: ;4.6;1,03E+16;delegado 91: ;14.9;9,86E+14;delegado 91: ;6.1;1,01E+16;delegado 91: ;3.3;8,89E+14
+delegado 92: ;14.3;9,04E+14;delegado 92: ;6.9;9,62E+14;delegado 92: ;2.2;1.03E+08;delegado 92: ;2.4;9,33E+13;delegado 92: ;0.6;9,20E+14;delegado 92: ;4.6;1,02E+16;delegado 92: ;14.9;9,33E+14;delegado 92: ;6.1;9,02E+14;delegado 92: ;3.3;9,17E+14
+delegado 93: ;14.3;1,06E+16;delegado 93: ;6.9;9,64E+14;delegado 93: ;2.2;1.02E+08;delegado 93: ;2.4;1,02E+16;delegado 93: ;0.6;9,36E+14;delegado 93: ;4.6;1,04E+16;delegado 93: ;14.9;9,87E+14;delegado 93: ;6.1;1,01E+16;delegado 93: ;3.3;9,11E+14
+delegado 94: ;5.7;1,05E+16;delegado 94: ;7.4;9,54E+14;delegado 94: ;3.8;1.01E+08;delegado 94: ;5.1;1,01E+16;delegado 94: ;2.8;9,36E+14;delegado 94: ;0.9;1,02E+16;delegado 94: ;2.7;1,00E+16;delegado 94: ;10.8;9,98E+14;delegado 94: ;2.6;8,92E+14
+delegado 95: ;5.7;8,89E+14;delegado 95: ;7.4;9,50E+14;delegado 95: ;3.8;1.02E+08;delegado 95: ;5.1;9,49E+14;delegado 95: ;2.8;9,25E+14;delegado 95: ;0.9;1,03E+16;delegado 95: ;2.7;1,01E+15;delegado 95: ;10.8;9,54E+14;delegado 95: ;2.6;1,04E+16
+delegado 96: ;5.7;9,11E+14;delegado 96: ;7.4;9,57E+14;delegado 96: ;3.8;1.01E+08;delegado 96: ;5.1;1,01E+16;delegado 96: ;2.8;9,01E+14;delegado 96: ;0.9;1,02E+16;delegado 96: ;2.7;9,98E+14;delegado 96: ;10.8;9,87E+14;delegado 96: ;2.6;1,04E+16
+delegado 97: ;5.5;9,38E+14;delegado 97: ;4.9;9,61E+14;delegado 97: ;4.6;9.91E+07;delegado 97: ;31.2;1,03E+16;delegado 97: ;2.6;9,09E+14;delegado 97: ;4.4;1,00E+16;delegado 97: ;25.3;1,01E+16;delegado 97: ;7.2;1,01E+16;delegado 97: ;5.1;1,03E+16
+delegado 98: ;5.5;9,20E+14;delegado 98: ;4.9;9,34E+14;delegado 98: ;4.6;1.02E+08;delegado 98: ;31.2;9,28E+14;delegado 98: ;2.6;8,83E+13;delegado 98: ;4.4;1,02E+16;delegado 98: ;25.3;1,00E+16;delegado 98: ;7.2;9,21E+14;delegado 98: ;5.1;1,03E+16
+delegado 99: ;5.5;9,06E+14;delegado 99: ;4.9;9,44E+14;delegado 99: ;4.6;1.00E+08;delegado 99: ;31.2;9,90E+14;delegado 99: ;2.6;8,89E+14;delegado 99: ;4.4;1,02E+16;delegado 99: ;25.3;1,04E+16;delegado 99: ;7.2;9,42E+14;delegado 99: ;5.1;1,03E+16
+delegado 100: ;6.0;9,29E+14;delegado 100: ;5.0;9,47E+14;delegado 100: ;6.6;9.98E+07;delegado 100: ;4.8;1,03E+16;delegado 100: ;6.5;1,06E+16;delegado 100: ;5.8;1,02E+16;delegado 100: ;4.7;1,01E+16;delegado 100: ;8.4;9,51E+14;delegado 100: ;12.7;1,00E+16
+delegado 101: ;6.0;9,41E+14;delegado 101: ;5.0;9,46E+14;delegado 101: ;6.6;9.33E+07;delegado 101: ;4.8;9,80E+14;delegado 101: ;6.5;9,66E+14;delegado 101: ;5.8;9,20E+14;delegado 101: ;4.7;1,01E+16;delegado 101: ;8.4;1,01E+16;delegado 101: ;12.7;1,01E+16
+delegado 102: ;6.0;9,12E+14;delegado 102: ;5.0;9,36E+14;delegado 102: ;6.6;9.33E+07;delegado 102: ;4.8;1,01E+14;delegado 102: ;6.5;9,48E+13;delegado 102: ;5.8;9,33E+14;delegado 102: ;4.7;1,01E+16;delegado 102: ;8.4;9,99E+14;delegado 102: ;12.7;1,03E+16
+delegado 103: ;6.3;9,02E+13;delegado 103: ;5.2;9,27E+14;delegado 103: ;3.4;9.36E+07;delegado 103: ;4.1;1,00E+15;delegado 103: ;0.3;9,27E+14;delegado 103: ;4.5;9,22E+14;delegado 103: ;3.8;1,06E+16;delegado 103: ;9.0;9,27E+14;delegado 103: ;4.8;1,00E+16
+delegado 104: ;6.3;9,04E+14;delegado 104: ;5.2;9,25E+14;delegado 104: ;3.4;9.33E+07;delegado 104: ;4.1;1,03E+16;delegado 104: ;0.3;9,39E+14;delegado 104: ;4.5;9,20E+14;delegado 104: ;3.8;9,22E+14;delegado 104: ;9.0;1,02E+16;delegado 104: ;4.8;1,00E+16
+delegado 105: ;6.3;9,08E+14;delegado 105: ;5.2;9,19E+14;delegado 105: ;3.4;9.10E+07;delegado 105: ;4.1;1,02E+16;delegado 105: ;0.3;9,48E+14;delegado 105: ;4.5;9,46E+14;delegado 105: ;3.8;9,68E+14;delegado 105: ;9.0;9,72E+14;delegado 105: ;4.8;1,00E+16
+delegado 106: ;5.8;9,22E+14;delegado 106: ;9.7;9,25E+14;delegado 106: ;4.4;8.85E+07;delegado 106: ;4.9;9,99E+14;delegado 106: ;1.6;9,37E+13;delegado 106: ;6.0;9,20E+14;delegado 106: ;3.4;1,01E+16;delegado 106: ;8.0;9,70E+14;delegado 106: ;4.8;1,00E+16
+delegado 107: ;5.8;9,13E+14;delegado 107: ;9.7;9,20E+14;delegado 107: ;4.4;8.91E+07;delegado 107: ;4.9;1,01E+16;delegado 107: ;1.6;9,29E+14;delegado 107: ;6.0;1,01E+15;delegado 107: ;3.4;1,16E+16;delegado 107: ;8.0;9,86E+14;delegado 107: ;4.8;1,01E+16
+delegado 108: ;5.8;9,26E+14;delegado 108: ;9.7;9,06E+14;delegado 108: ;4.4;8.93E+07;delegado 108: ;4.9;1,01E+16;delegado 108: ;1.6;9,49E+14;delegado 108: ;6.0;1,01E+16;delegado 108: ;3.4;9,99E+14;delegado 108: ;8.0;9,83E+13;delegado 108: ;4.8;1,01E+16
+delegado 109: ;5.8;9,23E+14;delegado 109: ;10.4;9,03E+14;delegado 109: ;10.1;9.55E+07;delegado 109: ;7.2;9,96E+14;delegado 109: ;2.4;9,40E+14;delegado 109: ;4.8;1,02E+16;delegado 109: ;5.3;1,00E+16;delegado 109: ;5.2;9,05E+13;delegado 109: ;1.4;1,01E+16
+delegado 110: ;5.8;9,25E+13;delegado 110: ;10.4;8,96E+14;delegado 110: ;10.1;9.24E+07;delegado 110: ;7.2;9,98E+14;delegado 110: ;2.4;9,21E+14;delegado 110: ;4.8;1,01E+16;delegado 110: ;5.3;9,36E+14;delegado 110: ;5.2;9,20E+14;delegado 110: ;1.4;1,01E+16
+delegado 111: ;5.8;9,60E+14;delegado 111: ;10.4;9,01E+14;delegado 111: ;10.1;9.52E+07;delegado 111: ;7.2;1,02E+16;delegado 111: ;2.4;9,38E+14;delegado 111: ;4.8;1,00E+16;delegado 111: ;5.3;1,01E+16;delegado 111: ;5.2;9,27E+14;delegado 111: ;1.4;9,13E+14
+delegado 112: ;4.4;9,35E+13;delegado 112: ;9.4;9,04E+14;delegado 112: ;3.8;9.11E+07;delegado 112: ;4.2;9,77E+14;delegado 112: ;1.9;9,16E+14;delegado 112: ;2.5;1,00E+16;delegado 112: ;4.6;1,00E+15;delegado 112: ;6.9;9,18E+14;delegado 112: ;2.0;9,34E+14
+delegado 113: ;4.4;9,28E+14;delegado 113: ;9.4;9,00E+14;delegado 113: ;3.8;9.33E+07;delegado 113: ;4.2;9,95E+13;delegado 113: ;1.9;9,18E+14;delegado 113: ;2.5;1,01E+16;delegado 113: ;4.6;9,28E+14;delegado 113: ;6.9;8,94E+14;delegado 113: ;2.0;9,24E+14
+delegado 114: ;4.4;9,14E+14;delegado 114: ;9.4;8,86E+14;delegado 114: ;3.8;9.41E+07;delegado 114: ;4.2;1,02E+16;delegado 114: ;1.9;9,09E+14;delegado 114: ;2.5;9,99E+14;delegado 114: ;4.6;9,56E+14;delegado 114: ;6.9;8,90E+14;delegado 114: ;2.0;9,11E+14
+delegado 115: ;7.0;9,12E+13;delegado 115: ;7.2;8,85E+14;delegado 115: ;2.4;9.17E+07;delegado 115: ;3.3;9,35E+14;delegado 115: ;1.3;9,12E+14;delegado 115: ;3.3;1,00E+16;delegado 115: ;3.0;9,69E+14;delegado 115: ;7.7;1,02E+16;delegado 115: ;0.6;9,03E+13
+delegado 116: ;7.0;9,08E+14;delegado 116: ;7.2;8,83E+14;delegado 116: ;2.4;9.22E+07;delegado 116: ;3.3;9,38E+14;delegado 116: ;1.3;9,09E+14;delegado 116: ;3.3;9,92E+14;delegado 116: ;3.0;1,00E+16;delegado 116: ;7.7;9,96E+14;delegado 116: ;0.6;8,82E+14
+delegado 117: ;7.0;9,12E+14;delegado 117: ;7.2;8,83E+14;delegado 117: ;2.4;9.91E+07;delegado 117: ;3.3;9,43E+14;delegado 117: ;1.3;9,07E+14;delegado 117: ;3.3;9,73E+14;delegado 117: ;3.0;8,97E+14;delegado 117: ;7.7;9,21E+13;delegado 117: ;0.6;9,21E+14
+delegado 118: ;7.4;9,18E+14;delegado 118: ;8.6;8,82E+14;delegado 118: ;4.5;1.01E+08;delegado 118: ;2.8;9,45E+14;delegado 118: ;0.0;1,07E+15;delegado 118: ;6.8;9,68E+14;delegado 118: ;0.7;1,01E+16;delegado 118: ;7.1;9,29E+14;delegado 118: ;2.9;8,97E+14
+delegado 119: ;7.4;8,91E+14;delegado 119: ;8.6;1,02E+16;delegado 119: ;4.5;9.77E+07;delegado 119: ;2.8;9,39E+14;delegado 119: ;0.0;1,05E+16;delegado 119: ;6.8;9,83E+14;delegado 119: ;0.7;1,03E+15;delegado 119: ;7.1;9,90E+14;delegado 119: ;2.9;9,25E+14
+delegado 120: ;7.4;1,05E+16;delegado 120: ;8.6;1,03E+16;delegado 120: ;4.5;9.91E+07;delegado 120: ;2.8;9,15E+14;delegado 120: ;0.0;1,04E+16;delegado 120: ;6.8;9,59E+14;delegado 120: ;0.7;1,00E+15;delegado 120: ;7.1;1,00E+15;delegado 120: ;2.9;8,99E+14
+delegado 121: ;8.7;8,93E+14;delegado 121: ;9.6;1,02E+16;delegado 121: ;2.7;9.71E+07;delegado 121: ;2.3;9,32E+14;delegado 121: ;2.5;1,03E+16;delegado 121: ;3.4;9,68E+14;delegado 121: ;4.1;9,95E+13;delegado 121: ;5.4;8,95E+14;delegado 121: ;6.4;1,03E+16
+delegado 122: ;8.7;9,00E+14;delegado 122: ;9.6;1,03E+16;delegado 122: ;2.7;9.62E+07;delegado 122: ;2.3;9,53E+14;delegado 122: ;2.5;1,03E+16;delegado 122: ;3.4;9,38E+14;delegado 122: ;4.1;1,01E+15;delegado 122: ;5.4;9,19E+14;delegado 122: ;6.4;1,06E+15
+delegado 123: ;8.7;8,96E+14;delegado 123: ;9.6;1,02E+16;delegado 123: ;2.7;9.60E+07;delegado 123: ;2.3;1,01E+16;delegado 123: ;2.5;1,03E+16;delegado 123: ;3.4;9,21E+14;delegado 123: ;4.1;1,00E+16;delegado 123: ;5.4;9,61E+13;delegado 123: ;6.4;1,05E+16
+delegado 124: ;7.4;1,03E+16;delegado 124: ;6.4;1,01E+16;delegado 124: ;9;9.53E+07;delegado 124: ;4.5;9,87E+14;delegado 124: ;2.5;1,03E+16;delegado 124: ;2.3;9,31E+14;delegado 124: ;4.4;9,98E+14;delegado 124: ;10.0;9,60E+14;delegado 124: ;1.5;1,05E+16
+delegado 125: ;7.4;1,02E+16;delegado 125: ;6.4;9,95E+14;delegado 125: ;9;9.38E+07;delegado 125: ;4.5;1,03E+16;delegado 125: ;2.5;1,03E+16;delegado 125: ;2.3;9,43E+14;delegado 125: ;4.4;8,98E+14;delegado 125: ;10.0;9,63E+14;delegado 125: ;1.5;1,05E+16
+delegado 126: ;7.4;1,02E+16;delegado 126: ;6.4;9,93E+14;delegado 126: ;9;9.35E+07;delegado 126: ;4.5;1,01E+16;delegado 126: ;2.5;1,03E+16;delegado 126: ;2.3;9,30E+13;delegado 126: ;4.4;9,25E+14;delegado 126: ;10.0;1,05E+16;delegado 126: ;1.5;1,02E+16
+delegado 127: ;11.5;1,03E+16;delegado 127: ;9.1;1,01E+16;delegado 127: ;9.1;9.73E+07;delegado 127: ;6.2;1,00E+16;delegado 127: ;3.5;1,05E+15;delegado 127: ;3.7;9,32E+13;delegado 127: ;1.3;9,57E+13;delegado 127: ;7.9;1,05E+16;delegado 127: ;1.2;1,05E+16
+delegado 128: ;11.5;1,03E+16;delegado 128: ;9.1;9,98E+14;delegado 128: ;9.1;9.41E+07;delegado 128: ;6.2;1,01E+16;delegado 128: ;3.5;9,37E+14;delegado 128: ;3.7;9,10E+14;delegado 128: ;1.3;9,96E+14;delegado 128: ;7.9;1,04E+16;delegado 128: ;1.2;1,04E+16
+delegado 129: ;11.5;1,01E+15;delegado 129: ;9.1;1,00E+16;delegado 129: ;9.1;9.25E+07;delegado 129: ;6.2;1,01E+16;delegado 129: ;3.5;1,00E+16;delegado 129: ;3.7;9,08E+14;delegado 129: ;1.3;9,33E+14;delegado 129: ;7.9;9,33E+14;delegado 129: ;1.2;1,04E+16
+delegado 130: ;8.3;1,01E+16;delegado 130: ;6.8;9,91E+14;delegado 130: ;1.8;9.52E+07;delegado 130: ;35.4;9,22E+14;delegado 130: ;3.2;9,97E+14;delegado 130: ;2.0;9,23E+14;delegado 130: ;6.2;1,02E+16;delegado 130: ;6.5;9,53E+14;delegado 130: ;1.6;1,04E+16
+delegado 131: ;8.3;1,16E+16;delegado 131: ;6.8;9,99E+14;delegado 131: ;1.8;9.23E+07;delegado 131: ;35.4;9,12E+14;delegado 131: ;3.2;9,95E+14;delegado 131: ;2.0;9,19E+14;delegado 131: ;6.2;9,20E+14;delegado 131: ;6.5;9,09E+14;delegado 131: ;1.6;9,53E+14
+delegado 132: ;8.3;1,01E+16;delegado 132: ;6.8;9,95E+14;delegado 132: ;1.8;1.03E+08;delegado 132: ;35.4;1,03E+16;delegado 132: ;3.2;1,02E+15;delegado 132: ;2.0;9,26E+14;delegado 132: ;6.2;9,42E+14;delegado 132: ;6.5;9,77E+14;delegado 132: ;1.6;9,80E+12
+delegado 133: ;9.7;1,04E+16;delegado 133: ;8.7;1,00E+15;delegado 133: ;14.1;1.01E+08;delegado 133: ;15.6;1,01E+15;delegado 133: ;4.2;9,50E+14;delegado 133: ;4.7;9,24E+14;delegado 133: ;3.4;1,02E+16;delegado 133: ;8.4;9,77E+12;delegado 133: ;1.3;9,81E+14
+delegado 134: ;9.7;1,01E+16;delegado 134: ;8.7;9,91E+13;delegado 134: ;14.1;9.28E+07;delegado 134: ;15.6;9,01E+13;delegado 134: ;4.2;9,28E+14;delegado 134: ;4.7;9,22E+14;delegado 134: ;3.4;1,01E+16;delegado 134: ;8.4;9,76E+14;delegado 134: ;1.3;9,77E+14
+delegado 135: ;9.7;9,87E+14;delegado 135: ;8.7;9,65E+14;delegado 135: ;14.1;9.48E+07;delegado 135: ;15.6;8,88E+14;delegado 135: ;4.2;9,18E+14;delegado 135: ;4.7;9,20E+14;delegado 135: ;3.4;9,94E+14;delegado 135: ;8.4;8,97E+14;delegado 135: ;1.3;9,86E+14
+delegado 136: ;8.4;9,92E+13;delegado 136: ;7.2;9,73E+14;delegado 136: ;10.8;9.30E+07;delegado 136: ;6.4;1,04E+16;delegado 136: ;3.3;9,20E+14;delegado 136: ;1.4;9,08E+14;delegado 136: ;4.5;9,57E+14;delegado 136: ;8.8;1,01E+16;delegado 136: ;4.2;9,57E+14
+delegado 137: ;8.4;1,00E+16;delegado 137: ;7.2;9,81E+14;delegado 137: ;10.8;9.32E+07;delegado 137: ;6.4;1,02E+16;delegado 137: ;3.3;9,19E+13;delegado 137: ;1.4;9,18E+14;delegado 137: ;4.5;9,70E+14;delegado 137: ;8.8;9,92E+14;delegado 137: ;4.2;9,44E+14
+delegado 138: ;8.4;1,00E+16;delegado 138: ;7.2;9,89E+14;delegado 138: ;10.8;9.30E+07;delegado 138: ;6.4;1,03E+16;delegado 138: ;3.3;9,24E+14;delegado 138: ;1.4;8,92E+14;delegado 138: ;4.5;9,96E+14;delegado 138: ;8.8;1,06E+16;delegado 138: ;4.2;9,71E+14
+delegado 139: ;6.4;1,01E+16;delegado 139: ;8.3;9,67E+14;delegado 139: ;5.1;9.37E+07;delegado 139: ;3.5;1,04E+16;delegado 139: ;2.4;9,00E+14;delegado 139: ;2.0;9,06E+14;delegado 139: ;3.7;1,02E+16;delegado 139: ;2.3;1,04E+16;delegado 139: ;2.0;9,68E+13
+delegado 140: ;6.4;9,84E+14;delegado 140: ;8.3;9,69E+13;delegado 140: ;5.1;9.37E+07;delegado 140: ;3.5;1,02E+16;delegado 140: ;2.4;9,04E+14;delegado 140: ;2.0;8,81E+14;delegado 140: ;3.7;9,81E+13;delegado 140: ;2.3;1,04E+15;delegado 140: ;2.0;9,71E+14
+delegado 141: ;6.4;9,82E+14;delegado 141: ;8.3;9,28E+14;delegado 141: ;5.1;9.11E+07;delegado 141: ;3.5;9,86E+14;delegado 141: ;2.4;9,19E+14;delegado 141: ;2.0;8,78E+14;delegado 141: ;3.7;9,86E+12;delegado 141: ;2.3;1,04E+16;delegado 141: ;2.0;9,68E+14
+delegado 142: ;9.6;9,82E+13;delegado 142: ;5.8;9,33E+14;delegado 142: ;4.1;9.30E+07;delegado 142: ;3.9;1,00E+15;delegado 142: ;0.9;9,21E+14;delegado 142: ;13.8;1,04E+16;delegado 142: ;3.6;1,00E+16;delegado 142: ;8.5;1,03E+15;delegado 142: ;3.5;9,38E+14
+delegado 143: ;9.6;9,79E+14;delegado 143: ;5.8;9,52E+14;delegado 143: ;4.1;8.94E+07;delegado 143: ;3.9;1,02E+16;delegado 143: ;0.9;9,21E+14;delegado 143: ;13.8;8,83E+14;delegado 143: ;3.6;1,02E+16;delegado 143: ;8.5;1,03E+16;delegado 143: ;3.5;9,14E+14
+delegado 144: ;9.6;9,83E+14;delegado 144: ;5.8;9,22E+14;delegado 144: ;4.1;8.82E+07;delegado 144: ;3.9;1,02E+16;delegado 144: ;0.9;1,02E+16;delegado 144: ;13.8;1,02E+16;delegado 144: ;3.6;9,74E+14;delegado 144: ;8.5;1,00E+16;delegado 144: ;3.5;9,14E+14
+delegado 145: ;5.7;9,25E+14;delegado 145: ;8.3;9,47E+14;delegado 145: ;30.1;9.08E+07;delegado 145: ;3.6;1,01E+16;delegado 145: ;0.9;1,03E+16;delegado 145: ;12.8;1,02E+16;delegado 145: ;2.1;9,89E+14;delegado 145: ;7.2;1,02E+16;delegado 145: ;0.6;9,13E+14
+delegado 146: ;5.7;9,30E+14;delegado 146: ;8.3;9,18E+14;delegado 146: ;30.1;9.05E+07;delegado 146: ;3.6;1,02E+14;delegado 146: ;0.9;1,05E+16;delegado 146: ;12.8;1,02E+16;delegado 146: ;2.1;1,01E+16;delegado 146: ;7.2;1,02E+16;delegado 146: ;0.6;9,22E+14
+delegado 147: ;5.7;9,39E+14;delegado 147: ;8.3;9,25E+14;delegado 147: ;30.1;9.04E+07;delegado 147: ;3.6;9,92E+14;delegado 147: ;0.9;1,04E+16;delegado 147: ;12.8;1,03E+16;delegado 147: ;2.1;9,55E+14;delegado 147: ;7.2;9,17E+14;delegado 147: ;0.6;9,22E+14
+delegado 148: ;6.2;9,40E+14;delegado 148: ;5.2;9,28E+14;delegado 148: ;3.8;8.91E+07;delegado 148: ;2.8;9,78E+14;delegado 148: ;1.2;9,99E+14;delegado 148: ;6.9;1,05E+16;delegado 148: ;1.3;9,44E+13;delegado 148: ;7.4;9,05E+14;delegado 148: ;2.4;9,24E+14
+delegado 149: ;6.2;9,44E+14;delegado 149: ;5.2;9,19E+14;delegado 149: ;3.8;9.06E+07;delegado 149: ;2.8;9,88E+14;delegado 149: ;1.2;1,01E+15;delegado 149: ;6.9;1,03E+16;delegado 149: ;1.3;1,01E+16;delegado 149: ;7.4;9,04E+14;delegado 149: ;2.4;9,21E+14
+delegado 150: ;6.2;9,18E+14;delegado 150: ;5.2;9,20E+14;delegado 150: ;3.8;1.04E+08;delegado 150: ;2.8;9,91E+14;delegado 150: ;1.2;1,02E+16;delegado 150: ;6.9;1,01E+16;delegado 150: ;1.3;1,05E+16;delegado 150: ;7.4;9,36E+14;delegado 150: ;2.4;9,20E+13
+delegado 151: ;8.0;9,10E+14;delegado 151: ;7.9;9,09E+13;delegado 151: ;3.5;1.04E+08;delegado 151: ;1.2;9,78E+14;delegado 151: ;4.4;1,02E+16;delegado 151: ;4.0;1,01E+16;delegado 151: ;6.0;9,97E+14;delegado 151: ;10.4;9,28E+14;delegado 151: ;1.2;9,16E+14
+delegado 152: ;8.0;9,27E+14;delegado 152: ;7.9;9,25E+14;delegado 152: ;3.5;1.05E+08;delegado 152: ;1.2;9,29E+13;delegado 152: ;4.4;1,02E+16;delegado 152: ;4.0;1,01E+16;delegado 152: ;6.0;9,63E+14;delegado 152: ;10.4;9,19E+14;delegado 152: ;1.2;9,25E+14
+delegado 153: ;8.0;9,20E+14;delegado 153: ;7.9;9,22E+14;delegado 153: ;3.5;1.04E+08;delegado 153: ;1.2;9,27E+14;delegado 153: ;4.4;1,00E+16;delegado 153: ;4.0;1,01E+16;delegado 153: ;6.0;9,46E+14;delegado 153: ;10.4;9,11E+14;delegado 153: ;1.2;8,76E+14
+delegado 154: ;5.1;9,35E+13;delegado 154: ;8.3;9,32E+13;delegado 154: ;2.2;1.03E+08;delegado 154: ;2.7;9,31E+14;delegado 154: ;5.3;9,76E+14;delegado 154: ;17.1;1,00E+16;delegado 154: ;3.7;9,86E+14;delegado 154: ;7.4;9,06E+14;delegado 154: ;1.7;9,01E+12
+delegado 155: ;5.1;9,25E+14;delegado 155: ;8.3;9,23E+12;delegado 155: ;2.2;1.02E+08;delegado 155: ;2.7;9,10E+14;delegado 155: ;5.3;9,91E+14;delegado 155: ;17.1;9,86E+14;delegado 155: ;3.7;9,93E+14;delegado 155: ;7.4;9,47E+14;delegado 155: ;1.7;8,96E+14
+delegado 156: ;5.1;8,86E+14;delegado 156: ;8.3;9,28E+12;delegado 156: ;2.2;9.08E+07;delegado 156: ;2.7;9,22E+14;delegado 156: ;5.3;9,94E+14;delegado 156: ;17.1;1,00E+16;delegado 156: ;3.7;9,10E+14;delegado 156: ;7.4;9,59E+14;delegado 156: ;1.7;8,93E+14
+delegado 157: ;11.4;8,93E+14;delegado 157: ;6.1;9,19E+13;delegado 157: ;4.6;8.86E+07;delegado 157: ;3.9;1,05E+16;delegado 157: ;1.6;1,00E+16;delegado 157: ;3.8;9,94E+14;delegado 157: ;2.7;9,13E+14;delegado 157: ;9.5;9,49E+14;delegado 157: ;2.0;8,96E+14
+delegado 158: ;11.4;8,98E+13;delegado 158: ;6.1;9,04E+14;delegado 158: ;4.6;9.10E+07;delegado 158: ;3.9;8,94E+14;delegado 158: ;1.6;1,00E+16;delegado 158: ;3.8;9,87E+14;delegado 158: ;2.7;8,87E+14;delegado 158: ;9.5;9,59E+14;delegado 158: ;2.0;9,35E+14
+delegado 159: ;11.4;9,13E+14;delegado 159: ;6.1;9,24E+14;delegado 159: ;4.6;8.89E+07;delegado 159: ;3.9;9,43E+14;delegado 159: ;1.6;9,10E+14;delegado 159: ;3.8;9,30E+14;delegado 159: ;2.7;8,96E+14;delegado 159: ;9.5;9,62E+14;delegado 159: ;2.0;9,20E+14
+delegado 160: ;7.3;9,08E+14;delegado 160: ;7.6;9,03E+14;delegado 160: ;7.1;9.06E+07;delegado 160: ;0.9;9,06E+14;delegado 160: ;1.4;9,11E+14;delegado 160: ;6.0;9,36E+14;delegado 160: ;4.2;8,92E+14;delegado 160: ;6.0;9,46E+14;delegado 160: ;0.6;9,41E+14
+delegado 161: ;7.3;1,03E+16;delegado 161: ;7.6;9,25E+14;delegado 161: ;7.1;9.35E+07;delegado 161: ;0.9;9,03E+14;delegado 161: ;1.4;9,32E+14;delegado 161: ;6.0;9,35E+14;delegado 161: ;4.2;9,07E+14;delegado 161: ;6.0;9,22E+14;delegado 161: ;0.6;9,31E+14
+delegado 162: ;7.3;1,05E+16;delegado 162: ;7.6;9,23E+14;delegado 162: ;7.1;9.11E+07;delegado 162: ;0.9;1,05E+15;delegado 162: ;1.4;9,18E+14;delegado 162: ;6.0;9,26E+14;delegado 162: ;4.2;8,36E+13;delegado 162: ;6.0;9,23E+14;delegado 162: ;0.6;9,12E+14
+delegado 163: ;9.3;9,01E+14;delegado 163: ;7.9;9,37E+14;delegado 163: ;2.6;9.26E+07;delegado 163: ;5.4;1,02E+16;delegado 163: ;1.3;9,35E+14;delegado 163: ;8.2;9,21E+14;delegado 163: ;13.4;1,02E+16;delegado 163: ;11.1;9,11E+13;delegado 163: ;1.3;9,06E+14
+delegado 164: ;9.3;1,05E+16;delegado 164: ;7.9;9,17E+14;delegado 164: ;2.6;9.32E+07;delegado 164: ;5.4;1,03E+16;delegado 164: ;1.3;9,10E+12;delegado 164: ;8.2;9,16E+14;delegado 164: ;13.4;1,02E+16;delegado 164: ;11.1;9,18E+14;delegado 164: ;1.3;9,12E+14
+delegado 165: ;9.3;1,05E+16;delegado 165: ;7.9;9,22E+13;delegado 165: ;2.6;1.04E+08;delegado 165: ;5.4;1,03E+16;delegado 165: ;1.3;9,02E+12;delegado 165: ;8.2;9,21E+14;delegado 165: ;13.4;9,01E+14;delegado 165: ;11.1;9,38E+13;delegado 165: ;1.3;9,15E+14
+delegado 166: ;9.3;1,00E+16;delegado 166: ;5.9;9,25E+14;delegado 166: ;3.1;8.86E+07;delegado 166: ;5.6;1,03E+16;delegado 166: ;4.4;9,03E+14;delegado 166: ;5.5;9,10E+14;delegado 166: ;3.0;1,05E+16;delegado 166: ;6.0;9,30E+14;delegado 166: ;0.9;9,10E+14
+delegado 167: ;9.3;1,00E+16;delegado 167: ;5.9;9,18E+14;delegado 167: ;3.1;8.82E+07;delegado 167: ;5.6;1,04E+16;delegado 167: ;4.4;9,06E+14;delegado 167: ;5.5;9,12E+14;delegado 167: ;3.0;1,06E+15;delegado 167: ;6.0;9,28E+14;delegado 167: ;0.9;8,90E+14
+delegado 168: ;9.3;1,02E+16;delegado 168: ;5.9;9,24E+12;delegado 168: ;3.1;9.13E+07;delegado 168: ;5.6;1,03E+16;delegado 168: ;4.4;9,08E+14;delegado 168: ;5.5;9,26E+14;delegado 168: ;3.0;9,32E+14;delegado 168: ;6.0;9,31E+14;delegado 168: ;0.9;9,09E+14
+delegado 169: ;6.8;1,02E+16;delegado 169: ;5.5;9,23E+14;delegado 169: ;1.6;9.11E+07;delegado 169: ;5.9;1,00E+16;delegado 169: ;3.7;9,05E+14;delegado 169: ;8.4;9,23E+14;delegado 169: ;0.7;9,17E+14;delegado 169: ;7.9;9,35E+14;delegado 169: ;2.0;1,05E+16
+delegado 170: ;6.8;1,03E+16;delegado 170: ;5.5;9,24E+14;delegado 170: ;1.6;8.95E+07;delegado 170: ;5.9;1,01E+15;delegado 170: ;3.7;1,03E+16;delegado 170: ;8.4;9,51E+14;delegado 170: ;0.7;1,02E+16;delegado 170: ;7.9;9,35E+14;delegado 170: ;2.0;1,03E+16
+delegado 171: ;6.8;1,01E+16;delegado 171: ;5.5;9,10E+13;delegado 171: ;1.6;1.02E+08;delegado 171: ;5.9;1,04E+16;delegado 171: ;3.7;1,02E+15;delegado 171: ;8.4;8,99E+14;delegado 171: ;0.7;1,03E+16;delegado 171: ;7.9;9,05E+14;delegado 171: ;2.0;1,05E+16
+delegado 172: ;6.2;9,99E+14;delegado 172: ;5.5;9,01E+14;delegado 172: ;3.2;1.02E+08;delegado 172: ;3.2;1,04E+16;delegado 172: ;3.4;1,01E+16;delegado 172: ;10.2;9,14E+14;delegado 172: ;18.1;1,07E+16;delegado 172: ;5.0;8,92E+14;delegado 172: ;3.7;1,03E+16
+delegado 173: ;6.2;9,87E+14;delegado 173: ;5.5;8,97E+14;delegado 173: ;3.2;1.01E+08;delegado 173: ;3.2;1,01E+16;delegado 173: ;3.4;1,01E+15;delegado 173: ;10.2;8,92E+14;delegado 173: ;18.1;8,91E+14;delegado 173: ;5.0;9,09E+13;delegado 173: ;3.7;1,05E+16
+delegado 174: ;6.2;9,88E+14;delegado 174: ;5.5;9,16E+14;delegado 174: ;3.2;1.04E+08;delegado 174: ;3.2;9,88E+14;delegado 174: ;3.4;1,04E+14;delegado 174: ;10.2;9,06E+14;delegado 174: ;18.1;9,06E+14;delegado 174: ;5.0;9,06E+14;delegado 174: ;3.7;1,00E+15
+delegado 175: ;11.1;9,85E+13;delegado 175: ;6.9;9,16E+14;delegado 175: ;6.5;1.02E+08;delegado 175: ;4.1;9,85E+13;delegado 175: ;1.3;1,01E+16;delegado 175: ;2.6;9,34E+14;delegado 175: ;16.3;8,98E+14;delegado 175: ;6.1;9,03E+14;delegado 175: ;4.4;1,02E+16
+delegado 176: ;11.1;9,85E+14;delegado 176: ;6.9;9,15E+14;delegado 176: ;6.5;9.96E+07;delegado 176: ;4.1;9,88E+14;delegado 176: ;1.3;1,01E+16;delegado 176: ;2.6;9,20E+14;delegado 176: ;16.3;9,02E+14;delegado 176: ;6.1;9,10E+14;delegado 176: ;4.4;1,02E+16
+delegado 177: ;11.1;9,71E+14;delegado 177: ;6.9;9,14E+14;delegado 177: ;6.5;1.15E+08;delegado 177: ;4.1;9,90E+14;delegado 177: ;1.3;1,01E+16;delegado 177: ;2.6;9,26E+14;delegado 177: ;16.3;9,15E+14;delegado 177: ;6.1;1,03E+16;delegado 177: ;4.4;1,00E+16
+delegado 178: ;7.3;9,77E+14;delegado 178: ;7.9;9,18E+14;delegado 178: ;6.6;1.02E+08;delegado 178: ;4.5;9,68E+14;delegado 178: ;2.0;1,01E+16;delegado 178: ;2.0;9,32E+14;delegado 178: ;3.0;1,01E+16;delegado 178: ;7.7;1,02E+16;delegado 178: ;7.7;1,01E+16
+delegado 179: ;7.3;9,70E+14;delegado 179: ;7.9;1,05E+16;delegado 179: ;6.6;9.92E+07;delegado 179: ;4.5;9,70E+14;delegado 179: ;2.0;9,97E+14;delegado 179: ;2.0;9,26E+14;delegado 179: ;3.0;1,02E+16;delegado 179: ;7.7;1,03E+16;delegado 179: ;7.7;9,41E+14
+delegado 180: ;7.3;9,72E+14;delegado 180: ;7.9;9,04E+14;delegado 180: ;6.6;1.01E+08;delegado 180: ;4.5;9,87E+14;delegado 180: ;2.0;9,18E+14;delegado 180: ;2.0;8,97E+14;delegado 180: ;3.0;9,77E+14;delegado 180: ;7.7;1,04E+16;delegado 180: ;7.7;9,21E+13
+delegado 181: ;6.9;9,70E+14;delegado 181: ;7.8;9,06E+14;delegado 181: ;2.7;9.34E+07;delegado 181: ;3.3;9,74E+14;delegado 181: ;1.6;9,12E+12;delegado 181: ;7.2;9,02E+13;delegado 181: ;3.5;1,01E+16;delegado 181: ;7.0;9,99E+14;delegado 181: ;1.9;9,42E+14
+delegado 182: ;6.9;9,74E+14;delegado 182: ;7.8;9,04E+13;delegado 182: ;2.7;9.14E+07;delegado 182: ;3.3;9,75E+14;delegado 182: ;1.6;9,23E+14;delegado 182: ;7.2;9,03E+14;delegado 182: ;3.5;9,83E+14;delegado 182: ;7.0;1,02E+16;delegado 182: ;1.9;9,18E+14
+delegado 183: ;6.9;9,28E+14;delegado 183: ;7.8;8,99E+14;delegado 183: ;2.7;9.14E+07;delegado 183: ;3.3;9,75E+14;delegado 183: ;1.6;9,38E+14;delegado 183: ;7.2;9,07E+14;delegado 183: ;3.5;9,89E+14;delegado 183: ;7.0;1,03E+16;delegado 183: ;1.9;9,56E+13
+delegado 184: ;6.2;9,25E+14;delegado 184: ;9.0;8,99E+14;delegado 184: ;2.4;9.40E+07;delegado 184: ;2.4;9,72E+14;delegado 184: ;1.7;9,44E+14;delegado 184: ;14.2;9,02E+14;delegado 184: ;4.8;1,03E+16;delegado 184: ;7.5;1,00E+16;delegado 184: ;2.1;9,25E+14
+delegado 185: ;6.2;9,24E+14;delegado 185: ;9.0;8,85E+14;delegado 185: ;2.4;9.38E+07;delegado 185: ;2.4;9,40E+14;delegado 185: ;1.7;9,01E+14;delegado 185: ;14.2;9,03E+14;delegado 185: ;4.8;9,22E+14;delegado 185: ;7.5;1,02E+16;delegado 185: ;2.1;9,13E+13
+delegado 186: ;6.2;9,25E+14;delegado 186: ;9.0;8,88E+14;delegado 186: ;2.4;9.11E+07;delegado 186: ;2.4;9,64E+14;delegado 186: ;1.7;9,02E+14;delegado 186: ;14.2;9,19E+14;delegado 186: ;4.8;1,01E+16;delegado 186: ;7.5;9,98E+14;delegado 186: ;2.1;9,23E+14
+delegado 187: ;7.7;9,24E+14;delegado 187: ;9.4;8,86E+14;delegado 187: ;0;8.90E+07;delegado 187: ;10.3;9,41E+14;delegado 187: ;0.6;8,98E+14;delegado 187: ;8.6;9,40E+14;delegado 187: ;5.2;9,67E+14;delegado 187: ;8.7;9,93E+14;delegado 187: ;0.9;8,98E+14
+delegado 188: ;7.7;1,06E+16;delegado 188: ;9.4;8,86E+14;delegado 188: ;0;8.94E+07;delegado 188: ;10.3;9,51E+14;delegado 188: ;0.6;9,00E+14;delegado 188: ;8.6;9,20E+14;delegado 188: ;5.2;1,03E+16;delegado 188: ;8.7;1,00E+15;delegado 188: ;0.9;9,26E+14
+delegado 189: ;7.7;9,05E+14;delegado 189: ;9.4;8,89E+14;delegado 189: ;0;9.16E+07;delegado 189: ;10.3;9,39E+14;delegado 189: ;0.6;9,18E+14;delegado 189: ;8.6;9,43E+14;delegado 189: ;5.2;9,21E+14;delegado 189: ;8.7;9,92E+14;delegado 189: ;0.9;9,01E+14
+delegado 190: ;9.4;9,09E+14;delegado 190: ;11.0;1,02E+16;delegado 190: ;1;9.16E+07;delegado 190: ;11.1;9,34E+14;delegado 190: ;2.6;8,90E+13;delegado 190: ;3.3;9,49E+14;delegado 190: ;3.8;9,69E+14;delegado 190: ;8.8;1,00E+16;delegado 190: ;1.3;9,04E+14
+delegado 191: ;9.4;9,15E+14;delegado 191: ;11.0;1,02E+16;delegado 191: ;1;9.10E+07;delegado 191: ;11.1;9,29E+14;delegado 191: ;2.6;1,06E+16;delegado 191: ;3.3;9,28E+14;delegado 191: ;3.8;1,01E+16;delegado 191: ;8.8;1,00E+16;delegado 191: ;1.3;1,06E+16
+delegado 192: ;9.4;9,07E+14;delegado 192: ;11.0;1,02E+16;delegado 192: ;1;1.02E+08;delegado 192: ;11.1;9,35E+14;delegado 192: ;2.6;8,92E+14;delegado 192: ;3.3;9,31E+14;delegado 192: ;3.8;9,17E+14;delegado 192: ;8.8;9,66E+14;delegado 192: ;1.3;1,03E+16
+delegado 193: ;6.9;9,15E+14;delegado 193: ;9.0;1,03E+16;delegado 193: ;2.2;1.05E+08;delegado 193: ;11.4;9,30E+14;delegado 193: ;8.2;1,05E+16;delegado 193: ;1.2;9,07E+14;delegado 193: ;3.8;8,94E+14;delegado 193: ;9.2;9,72E+14;delegado 193: ;3.8;9,15E+14
+delegado 194: ;6.9;8,95E+14;delegado 194: ;9.0;1,04E+16;delegado 194: ;2.2;1.02E+08;delegado 194: ;11.4;9,32E+14;delegado 194: ;8.2;8,85E+14;delegado 194: ;1.2;9,13E+14;delegado 194: ;3.8;9,19E+14;delegado 194: ;9.2;9,81E+13;delegado 194: ;3.8;9,14E+14
+delegado 195: ;6.9;9,00E+14;delegado 195: ;9.0;9,89E+14;delegado 195: ;2.2;1.05E+08;delegado 195: ;11.4;9,17E+14;delegado 195: ;8.2;9,02E+14;delegado 195: ;1.2;9,33E+14;delegado 195: ;3.8;8,87E+14;delegado 195: ;9.2;9,76E+13;delegado 195: ;3.8;1,04E+16
+delegado 196: ;8.4;8,95E+13;delegado 196: ;7.9;1,00E+16;delegado 196: ;2.2;1.05E+08;delegado 196: ;4.4;9,09E+14;delegado 196: ;8.8;1,03E+16;delegado 196: ;1.7;9,29E+14;delegado 196: ;1.2;8,96E+14;delegado 196: ;7.1;9,83E+14;delegado 196: ;1.5;1,04E+15
+delegado 197: ;8.4;1,03E+16;delegado 197: ;7.9;9,91E+14;delegado 197: ;2.2;1.03E+08;delegado 197: ;4.4;9,35E+14;delegado 197: ;8.8;1,02E+16;delegado 197: ;1.7;9,06E+14;delegado 197: ;1.2;1,04E+16;delegado 197: ;7.1;9,36E+14;delegado 197: ;1.5;1,02E+16
+delegado 198: ;8.4;8,98E+14;delegado 198: ;7.9;1,01E+16;delegado 198: ;2.2;1.01E+08;delegado 198: ;4.4;9,40E+14;delegado 198: ;8.8;1,05E+16;delegado 198: ;1.7;9,12E+14;delegado 198: ;1.2;1,05E+16;delegado 198: ;7.1;9,34E+14;delegado 198: ;1.5;1,04E+16
+delegado 199: ;9.8;9,21E+13;delegado 199: ;8.6;1,01E+16;delegado 199: ;2.2;1.03E+08;delegado 199: ;4.7;9,23E+14;delegado 199: ;9.3;1,03E+16;delegado 199: ;2.4;8,99E+14;delegado 199: ;2.2;9,99E+14;delegado 199: ;7.2;9,27E+14;delegado 199: ;1.8;1,02E+16
+delegado 200: ;9.8;9,33E+14;delegado 200: ;8.6;9,99E+14;delegado 200: ;2.2;1.01E+08;delegado 200: ;4.7;9,22E+14;delegado 200: ;9.3;1,03E+16;delegado 200: ;2.4;9,06E+14;delegado 200: ;2.2;1,00E+14;delegado 200: ;7.2;9,24E+13;delegado 200: ;1.8;1,01E+16
+delegado 201: ;9.8;9,21E+14;delegado 201: ;8.6;9,25E+14;delegado 201: ;2.2;1.03E+08;delegado 201: ;4.7;9,00E+14;delegado 201: ;9.3;1,00E+16;delegado 201: ;2.4;8,91E+14;delegado 201: ;2.2;1,01E+16;delegado 201: ;7.2;9,38E+14;delegado 201: ;1.8;1,01E+16
+delegado 202: ;10.7;9,22E+14;delegado 202: ;7.6;9,14E+14;delegado 202: ;2.8;9.94E+07;delegado 202: ;5.0;9,20E+14;delegado 202: ;6.7;1,02E+16;delegado 202: ;4.3;1,04E+16;delegado 202: ;2.7;1,02E+16;delegado 202: ;6.4;9,02E+13;delegado 202: ;1.2;1,02E+16
+delegado 203: ;10.7;9,20E+14;delegado 203: ;7.6;9,36E+14;delegado 203: ;2.8;9.95E+07;delegado 203: ;5.0;9,19E+14;delegado 203: ;6.7;1,02E+15;delegado 203: ;4.3;1,04E+16;delegado 203: ;2.7;1,01E+16;delegado 203: ;6.4;9,14E+14;delegado 203: ;1.2;1,02E+16
+delegado 204: ;10.7;9,03E+14;delegado 204: ;7.6;9,28E+14;delegado 204: ;2.8;1.01E+08;delegado 204: ;5.0;9,02E+13;delegado 204: ;6.7;1,03E+16;delegado 204: ;4.3;1,04E+16;delegado 204: ;2.7;1,02E+16;delegado 204: ;6.4;8,95E+14;delegado 204: ;1.2;9,86E+14
+delegado 205: ;13.5;9,02E+14;delegado 205: ;6.5;9,48E+14;delegado 205: ;3;1.04E+08;delegado 205: ;2.4;9,31E+14;delegado 205: ;5.9;1,04E+15;delegado 205: ;3.4;1,02E+16;delegado 205: ;4.4;9,80E+14;delegado 205: ;9.4;8,95E+14;delegado 205: ;4.0;9,62E+14
+delegado 206: ;13.5;8,97E+14;delegado 206: ;6.5;9,20E+14;delegado 206: ;3;1.02E+08;delegado 206: ;2.4;9,01E+14;delegado 206: ;5.9;1,01E+16;delegado 206: ;3.4;1,04E+16;delegado 206: ;4.4;9,84E+14;delegado 206: ;9.4;9,01E+14;delegado 206: ;4.0;9,87E+14
+delegado 207: ;13.5;9,06E+14;delegado 207: ;6.5;9,14E+13;delegado 207: ;3;9.14E+07;delegado 207: ;2.4;1,05E+16;delegado 207: ;5.9;9,89E+14;delegado 207: ;3.4;1,01E+16;delegado 207: ;4.4;9,92E+13;delegado 207: ;9.4;9,00E+14;delegado 207: ;4.0;9,88E+14
+delegado 208: ;6.6;8,87E+14;delegado 208: ;9.7;9,20E+14;delegado 208: ;2.3;8.97E+07;delegado 208: ;2.6;8,85E+14;delegado 208: ;1.6;1,01E+16;delegado 208: ;3.2;1,01E+15;delegado 208: ;6.1;9,69E+14;delegado 208: ;4.7;1,06E+16;delegado 208: ;4.5;9,94E+14
+delegado 209: ;6.6;9,02E+14;delegado 209: ;9.7;1,00E+16;delegado 209: ;2.3;9.28E+07;delegado 209: ;2.6;8,80E+14;delegado 209: ;1.6;1,01E+16;delegado 209: ;3.2;1,01E+15;delegado 209: ;6.1;9,73E+13;delegado 209: ;4.7;8,94E+14;delegado 209: ;4.5;9,62E+14
+delegado 210: ;6.6;9,32E+14;delegado 210: ;9.7;1,00E+16;delegado 210: ;2.3;9.23E+07;delegado 210: ;2.6;9,11E+14;delegado 210: ;1.6;9,85E+14;delegado 210: ;3.2;9,90E+14;delegado 210: ;6.1;9,75E+14;delegado 210: ;4.7;8,78E+14;delegado 210: ;4.5;9,65E+14
+delegado 211: ;6.2;9,37E+14;delegado 211: ;7.9;9,97E+14;delegado 211: ;2.3;9.26E+07;delegado 211: ;3.0;9,40E+14;delegado 211: ;7.6;9,23E+14;delegado 211: ;12.8;9,92E+14;delegado 211: ;21.9;9,50E+14;delegado 211: ;3.8;8,97E+14;delegado 211: ;3.5;9,40E+14
+delegado 212: ;6.2;9,43E+14;delegado 212: ;7.9;1,03E+16;delegado 212: ;2.3;1.02E+08;delegado 212: ;3.0;9,23E+14;delegado 212: ;7.6;9,21E+14;delegado 212: ;12.8;9,92E+13;delegado 212: ;21.9;9,52E+14;delegado 212: ;3.8;1,04E+16;delegado 212: ;3.5;9,69E+14
+delegado 213: ;6.2;9,19E+14;delegado 213: ;7.9;9,92E+13;delegado 213: ;2.3;9.99E+07;delegado 213: ;3.0;9,35E+12;delegado 213: ;7.6;9,34E+14;delegado 213: ;12.8;1,01E+16;delegado 213: ;21.9;9,66E+14;delegado 213: ;3.8;9,41E+14;delegado 213: ;3.5;9,70E+14
+delegado 214: ;6.2;9,19E+14;delegado 214: ;6.4;9,79E+14;delegado 214: ;3.1;1.01E+08;delegado 214: ;1.3;9,57E+14;delegado 214: ;8.7;9,16E+14;delegado 214: ;8.4;9,99E+14;delegado 214: ;10.4;9,73E+13;delegado 214: ;5.7;9,38E+14;delegado 214: ;1.7;9,72E+14
+delegado 215: ;6.2;8,97E+13;delegado 215: ;6.4;1,00E+16;delegado 215: ;3.1;1.01E+08;delegado 215: ;1.3;9,41E+14;delegado 215: ;8.7;9,24E+14;delegado 215: ;8.4;9,77E+14;delegado 215: ;10.4;9,56E+14;delegado 215: ;5.7;9,48E+14;delegado 215: ;1.7;9,54E+14
+delegado 216: ;6.2;9,16E+14;delegado 216: ;6.4;9,89E+14;delegado 216: ;3.1;1.01E+08;delegado 216: ;1.3;9,05E+14;delegado 216: ;8.7;9,25E+13;delegado 216: ;8.4;9,87E+14;delegado 216: ;10.4;9,40E+14;delegado 216: ;5.7;9,32E+14;delegado 216: ;1.7;9,50E+14
+delegado 217: ;4.8;9,10E+14;delegado 217: ;6.4;9,80E+14;delegado 217: ;9.8;8.37E+07;delegado 217: ;2.3;8,89E+14;delegado 217: ;8.3;9,21E+14;delegado 217: ;3.7;9,87E+14;delegado 217: ;7.6;9,38E+13;delegado 217: ;7.0;9,28E+14;delegado 217: ;1.0;9,30E+13
+delegado 218: ;4.8;9,10E+14;delegado 218: ;6.4;9,62E+14;delegado 218: ;9.8;8.28E+07;delegado 218: ;2.3;9,14E+14;delegado 218: ;8.3;9,22E+13;delegado 218: ;3.7;9,35E+14;delegado 218: ;7.6;9,39E+14;delegado 218: ;7.0;9,28E+14;delegado 218: ;1.0;9,55E+13
+delegado 219: ;4.8;9,00E+14;delegado 219: ;6.4;9,83E+14;delegado 219: ;9.8;8.43E+07;delegado 219: ;2.3;9,19E+14;delegado 219: ;8.3;9,27E+14;delegado 219: ;3.7;9,17E+14;delegado 219: ;7.6;9,33E+14;delegado 219: ;7.0;9,29E+14;delegado 219: ;1.0;9,54E+14
+delegado 220: ;8.6;9,24E+14;delegado 220: ;8.6;9,76E+14;delegado 220: ;9.2;8.32E+07;delegado 220: ;3.4;9,05E+14;delegado 220: ;0.0;9,29E+14;delegado 220: ;1.4;9,17E+14;delegado 220: ;5.0;9,34E+14;delegado 220: ;1.7;9,03E+14;delegado 220: ;0.3;9,33E+14
+delegado 221: ;8.6;9,23E+13;delegado 221: ;8.6;9,77E+14;delegado 221: ;9.2;8.45E+07;delegado 221: ;3.4;9,16E+14;delegado 221: ;0.0;9,23E+14;delegado 221: ;1.4;9,39E+14;delegado 221: ;5.0;9,36E+14;delegado 221: ;1.7;9,30E+14;delegado 221: ;0.3;9,26E+14
+delegado 222: ;8.6;9,17E+14;delegado 222: ;8.6;9,68E+14;delegado 222: ;9.2;8.21E+07;delegado 222: ;3.4;8,99E+14;delegado 222: ;0.0;9,48E+13;delegado 222: ;1.4;9,33E+14;delegado 222: ;5.0;9,44E+14;delegado 222: ;1.7;9,21E+14;delegado 222: ;0.3;9,07E+14
+delegado 223: ;6.2;9,44E+14;delegado 223: ;9.7;9,24E+14;delegado 223: ;7.7;8.66E+07;delegado 223: ;0.6;9,04E+14;delegado 223: ;4.8;9,42E+14;delegado 223: ;2.0;9,24E+14;delegado 223: ;4.6;9,22E+14;delegado 223: ;7.2;9,33E+14;delegado 223: ;1.1;9,34E+14
+delegado 224: ;6.2;9,21E+14;delegado 224: ;9.7;9,22E+14;delegado 224: ;7.7;8.21E+07;delegado 224: ;0.6;1,05E+16;delegado 224: ;4.8;9,33E+14;delegado 224: ;2.0;9,04E+13;delegado 224: ;4.6;9,24E+14;delegado 224: ;7.2;9,14E+14;delegado 224: ;1.1;9,36E+14
+delegado 225: ;6.2;9,27E+14;delegado 225: ;9.7;9,36E+14;delegado 225: ;7.7;8.28E+07;delegado 225: ;0.6;8,92E+14;delegado 225: ;4.8;9,40E+14;delegado 225: ;2.0;9,27E+13;delegado 225: ;4.6;9,10E+14;delegado 225: ;7.2;9,20E+14;delegado 225: ;1.1;9,31E+14
+delegado 226: ;9.0;8,87E+14;delegado 226: ;6.2;9,44E+14;delegado 226: ;8;8.46E+07;delegado 226: ;4.7;8,85E+14;delegado 226: ;5.2;9,19E+14;delegado 226: ;1.7;9,08E+14;delegado 226: ;5.6;9,43E+14;delegado 226: ;7.7;9,21E+13;delegado 226: ;1.3;9,17E+14
+delegado 227: ;9.0;9,08E+14;delegado 227: ;6.2;9,22E+14;delegado 227: ;8;8.43E+07;delegado 227: ;4.7;1,04E+16;delegado 227: ;5.2;8,97E+14;delegado 227: ;1.7;9,27E+14;delegado 227: ;5.6;9,21E+14;delegado 227: ;7.7;9,15E+14;delegado 227: ;1.3;8,92E+14
+delegado 228: ;9.0;8,93E+14;delegado 228: ;6.2;9,14E+14;delegado 228: ;8;8.26E+07;delegado 228: ;4.7;1,02E+16;delegado 228: ;5.2;9,04E+14;delegado 228: ;1.7;9,28E+14;delegado 228: ;5.6;9,00E+14;delegado 228: ;7.7;9,17E+14;delegado 228: ;1.3;9,17E+14
+delegado 229: ;6.9;8,83E+14;delegado 229: ;7.3;9,12E+13;delegado 229: ;14.4;8.28E+07;delegado 229: ;7.3;1,02E+16;delegado 229: ;0.0;9,14E+14;delegado 229: ;1.7;9,16E+14;delegado 229: ;5.2;9,17E+14;delegado 229: ;6.2;9,00E+14;delegado 229: ;3.4;9,16E+14
+delegado 230: ;6.9;8,98E+14;delegado 230: ;7.3;9,06E+14;delegado 230: ;14.4;8.39E+07;delegado 230: ;7.3;1,01E+16;delegado 230: ;0.0;9,17E+14;delegado 230: ;1.7;9,03E+14;delegado 230: ;5.2;9,09E+14;delegado 230: ;6.2;9,03E+14;delegado 230: ;3.4;9,21E+14
+delegado 231: ;6.9;8,90E+12;delegado 231: ;7.3;9,05E+14;delegado 231: ;14.4;8.56E+07;delegado 231: ;7.3;1,04E+16;delegado 231: ;0.0;9,18E+14;delegado 231: ;1.7;8,90E+14;delegado 231: ;5.2;9,13E+13;delegado 231: ;6.2;8,92E+14;delegado 231: ;3.4;9,35E+14
+delegado 232: ;4.2;9,17E+14;delegado 232: ;5.5;9,05E+14;delegado 232: ;14;8.48E+07;delegado 232: ;6.5;1,01E+16;delegado 232: ;6.1;8,97E+14;delegado 232: ;2.2;9,14E+14;delegado 232: ;4.4;9,11E+13;delegado 232: ;6.9;9,07E+14;delegado 232: ;2.9;9,38E+14
+delegado 233: ;4.2;9,28E+13;delegado 233: ;5.5;9,18E+13;delegado 233: ;14;8.39E+07;delegado 233: ;6.5;9,87E+14;delegado 233: ;6.1;9,16E+13;delegado 233: ;2.2;9,09E+14;delegado 233: ;4.4;9,04E+14;delegado 233: ;6.9;8,80E+13;delegado 233: ;2.9;9,38E+13
+delegado 234: ;4.2;9,14E+14;delegado 234: ;5.5;9,22E+14;delegado 234: ;14;8.65E+07;delegado 234: ;6.5;1,01E+15;delegado 234: ;6.1;9,28E+14;delegado 234: ;2.2;9,40E+14;delegado 234: ;4.4;8,93E+13;delegado 234: ;6.9;8,91E+13;delegado 234: ;2.9;9,44E+14
+delegado 235: ;2.0;9,34E+13;delegado 235: ;5.7;9,29E+14;delegado 235: ;3.1;8.41E+07;delegado 235: ;10.2;1,00E+15;delegado 235: ;2.0;9,35E+14;delegado 235: ;1.7;9,43E+14;delegado 235: ;4.3;1,03E+16;delegado 235: ;8.2;9,04E+13;delegado 235: ;2.3;9,45E+14
+delegado 236: ;2.0;9,36E+14;delegado 236: ;5.7;9,31E+14;delegado 236: ;3.1;8.36E+07;delegado 236: ;10.2;1,00E+16;delegado 236: ;2.0;9,18E+14;delegado 236: ;1.7;9,46E+14;delegado 236: ;4.3;8,82E+14;delegado 236: ;8.2;9,32E+14;delegado 236: ;2.3;9,28E+14
+delegado 237: ;2.0;9,03E+14;delegado 237: ;5.7;9,19E+14;delegado 237: ;3.1;8.26E+07;delegado 237: ;10.2;9,99E+14;delegado 237: ;2.0;9,42E+14;delegado 237: ;1.7;9,50E+14;delegado 237: ;4.3;8,94E+14;delegado 237: ;8.2;9,16E+14;delegado 237: ;2.3;9,24E+14
+delegado 238: ;6.9;9,03E+14;delegado 238: ;6.7;9,32E+14;delegado 238: ;5.4;8.44E+07;delegado 238: ;11.4;9,70E+14;delegado 238: ;0.0;9,05E+14;delegado 238: ;0.9;9,28E+14;delegado 238: ;3.3;1,01E+16;delegado 238: ;8.2;9,13E+14;delegado 238: ;2.3;9,50E+14
+delegado 239: ;6.9;8,96E+14;delegado 239: ;6.7;1,22E+16;delegado 239: ;5.4;8.40E+07;delegado 239: ;11.4;9,85E+14;delegado 239: ;0.0;9,16E+14;delegado 239: ;0.9;9,16E+14;delegado 239: ;3.3;1,01E+16;delegado 239: ;8.2;9,17E+14;delegado 239: ;2.3;9,29E+14
+delegado 240: ;6.9;9,09E+14;delegado 240: ;6.7;9,16E+14;delegado 240: ;5.4;8.60E+07;delegado 240: ;11.4;9,70E+14;delegado 240: ;0.0;9,13E+14;delegado 240: ;0.9;9,23E+14;delegado 240: ;3.3;1,03E+16;delegado 240: ;8.2;8,97E+14;delegado 240: ;2.3;9,29E+14
+delegado 241: ;5.5;9,08E+14;delegado 241: ;9.1;9,08E+13;delegado 241: ;8.6;8.27E+07;delegado 241: ;3.5;9,98E+14;delegado 241: ;0.7;8,92E+14;delegado 241: ;2.1;9,28E+14;delegado 241: ;3.1;1,04E+16;delegado 241: ;4.4;8,89E+14;delegado 241: ;2.5;9,16E+14
+delegado 242: ;5.5;9,15E+14;delegado 242: ;9.1;9,04E+14;delegado 242: ;8.6;8.25E+07;delegado 242: ;3.5;9,94E+14;delegado 242: ;0.7;9,01E+14;delegado 242: ;2.1;9,03E+14;delegado 242: ;3.1;1,04E+16;delegado 242: ;4.4;9,03E+14;delegado 242: ;2.5;9,20E+14
+delegado 243: ;5.5;9,26E+14;delegado 243: ;9.1;9,11E+14;delegado 243: ;8.6;8.50E+07;delegado 243: ;3.5;9,44E+14;delegado 243: ;0.7;8,90E+14;delegado 243: ;2.1;9,00E+14;delegado 243: ;3.1;1,01E+16;delegado 243: ;4.4;9,15E+14;delegado 243: ;2.5;9,07E+14
+delegado 244: ;8.3;9,32E+13;delegado 244: ;9.1;9,09E+14;delegado 244: ;6.2;8.40E+07;delegado 244: ;1.3;9,62E+14;delegado 244: ;4.8;9,23E+14;delegado 244: ;1.3;9,22E+14;delegado 244: ;7.5;1,01E+16;delegado 244: ;8.3;9,07E+14;delegado 244: ;2.3;9,12E+14
+delegado 245: ;8.3;9,11E+14;delegado 245: ;9.1;8,83E+14;delegado 245: ;6.2;8.24E+07;delegado 245: ;1.3;9,46E+14;delegado 245: ;4.8;9,15E+14;delegado 245: ;1.3;9,24E+14;delegado 245: ;7.5;1,01E+15;delegado 245: ;8.3;9,08E+14;delegado 245: ;2.3;9,16E+14
+delegado 246: ;8.3;9,27E+14;delegado 246: ;9.1;1,03E+16;delegado 246: ;6.2;8.37E+07;delegado 246: ;1.3;9,47E+14;delegado 246: ;4.8;9,14E+14;delegado 246: ;1.3;9,45E+13;delegado 246: ;7.5;1,01E+16;delegado 246: ;8.3;9,14E+14;delegado 246: ;2.3;9,21E+13
+delegado 247: ;8.0;9,25E+14;delegado 247: ;9.4;8,85E+14;delegado 247: ;6;8.26E+07;delegado 247: ;5.6;9,47E+13;delegado 247: ;2.3;9,15E+14;delegado 247: ;4.5;9,37E+14;delegado 247: ;9.7;1,01E+16;delegado 247: ;7.6;9,32E+14;delegado 247: ;2.2;1,05E+16
+delegado 248: ;8.0;8,96E+14;delegado 248: ;9.4;8,90E+12;delegado 248: ;6;8.27E+07;delegado 248: ;5.6;9,42E+14;delegado 248: ;2.3;9,08E+14;delegado 248: ;4.5;9,25E+14;delegado 248: ;9.7;9,21E+14;delegado 248: ;7.6;9,16E+14;delegado 248: ;2.2;8,92E+13
+delegado 249: ;8.0;8,97E+14;delegado 249: ;9.4;8,91E+14;delegado 249: ;6;8.60E+07;delegado 249: ;5.6;9,27E+14;delegado 249: ;2.3;9,06E+14;delegado 249: ;4.5;9,43E+14;delegado 249: ;9.7;9,79E+13;delegado 249: ;7.6;8,96E+13;delegado 249: ;2.2;8,87E+14
+delegado 250: ;6.3;8,88E+14;delegado 250: ;11.1;1,02E+15;delegado 250: ;6.2;8.23E+07;delegado 250: ;4.5;9,01E+14;delegado 250: ;2.4;9,03E+14;delegado 250: ;4.1;9,19E+14;delegado 250: ;4.7;9,84E+13;delegado 250: ;5.8;9,05E+14;delegado 250: ;2.8;1,05E+16
+delegado 251: ;6.3;9,06E+14;delegado 251: ;11.1;1,04E+16;delegado 251: ;6.2;8.28E+07;delegado 251: ;4.5;9,05E+14;delegado 251: ;2.4;8,90E+14;delegado 251: ;4.1;1,05E+16;delegado 251: ;4.7;9,80E+14;delegado 251: ;5.8;1,04E+16;delegado 251: ;2.8;9,05E+13
+delegado 252: ;6.3;8,99E+14;delegado 252: ;11.1;1,01E+16;delegado 252: ;6.2;8.53E+07;delegado 252: ;4.5;9,07E+14;delegado 252: ;2.4;8,93E+14;delegado 252: ;4.1;9,03E+14;delegado 252: ;4.7;9,71E+14;delegado 252: ;5.8;1,04E+16;delegado 252: ;2.8;1,03E+16
+delegado 253: ;6.1;9,02E+14;delegado 253: ;5.9;1,02E+16;delegado 253: ;5.4;8.44E+07;delegado 253: ;5.0;9,12E+14;delegado 253: ;1.6;9,13E+14;delegado 253: ;21.6;8,96E+13;delegado 253: ;31.9;9,52E+14;delegado 253: ;5.6;8,94E+14;delegado 253: ;3.4;1,04E+16
+delegado 254: ;6.1;1,03E+16;delegado 254: ;5.9;1,02E+16;delegado 254: ;5.4;8.20E+07;delegado 254: ;5.0;1,03E+15;delegado 254: ;1.6;9,08E+14;delegado 254: ;21.6;1,03E+16;delegado 254: ;31.9;9,53E+13;delegado 254: ;5.6;1,03E+16;delegado 254: ;3.4;1,02E+16
+delegado 255: ;6.1;8,76E+14;delegado 255: ;5.9;1,00E+16;delegado 255: ;5.4;8.31E+07;delegado 255: ;5.0;1,05E+16;delegado 255: ;1.6;1,04E+16;delegado 255: ;21.6;1,03E+15;delegado 255: ;31.9;9,79E+14;delegado 255: ;5.6;1,03E+16;delegado 255: ;3.4;1,04E+16
+delegado 256: ;7.0;1,03E+15;delegado 256: ;10.5;9,86E+14;delegado 256: ;2.7;8.56E+07;delegado 256: ;3.3;8,86E+14;delegado 256: ;1.9;1,04E+16;delegado 256: ;14.1;1,01E+16;delegado 256: ;11.0;9,70E+14;delegado 256: ;10.8;1,02E+16;delegado 256: ;1.5;1,03E+16
+delegado 257: ;7.0;1,03E+16;delegado 257: ;10.5;9,90E+14;delegado 257: ;2.7;8.43E+07;delegado 257: ;3.3;9,00E+14;delegado 257: ;1.9;1,03E+16;delegado 257: ;14.1;1,01E+16;delegado 257: ;11.0;9,53E+14;delegado 257: ;10.8;1,02E+16;delegado 257: ;1.5;1,02E+16
+delegado 258: ;7.0;8,84E+14;delegado 258: ;10.5;9,91E+14;delegado 258: ;2.7;8.51E+07;delegado 258: ;3.3;9,04E+14;delegado 258: ;1.9;1,05E+16;delegado 258: ;14.1;1,01E+16;delegado 258: ;11.0;9,58E+14;delegado 258: ;10.8;1,04E+16;delegado 258: ;1.5;1,01E+15
+delegado 259: ;5.6;1,02E+16;delegado 259: ;9.4;9,97E+14;delegado 259: ;6.2;9.12E+07;delegado 259: ;0.9;1,06E+16;delegado 259: ;1.6;9,49E+12;delegado 259: ;10.5;1,00E+16;delegado 259: ;3.8;9,52E+14;delegado 259: ;7.8;1,01E+15;delegado 259: ;3.1;1,01E+16
+delegado 260: ;5.6;1,02E+16;delegado 260: ;9.4;9,97E+13;delegado 260: ;6.2;9.27E+07;delegado 260: ;0.9;1,02E+16;delegado 260: ;1.6;9,50E+13;delegado 260: ;10.5;1,00E+16;delegado 260: ;3.8;9,35E+14;delegado 260: ;7.8;1,01E+16;delegado 260: ;3.1;1,02E+16
+delegado 261: ;5.6;1,02E+16;delegado 261: ;9.4;9,66E+14;delegado 261: ;6.2;9.02E+07;delegado 261: ;0.9;1,01E+16;delegado 261: ;1.6;9,55E+14;delegado 261: ;10.5;9,87E+14;delegado 261: ;3.8;9,43E+14;delegado 261: ;7.8;9,90E+14;delegado 261: ;3.1;1,01E+16
+delegado 262: ;8.7;1,02E+16;delegado 262: ;9.3;9,66E+14;delegado 262: ;0.9;9.24E+07;delegado 262: ;4.0;1,01E+16;delegado 262: ;4.4;9,43E+14;delegado 262: ;12.2;9,09E+14;delegado 262: ;3.7;9,68E+14;delegado 262: ;8.1;1,00E+16;delegado 262: ;1.9;9,19E+14
+delegado 263: ;8.7;1,03E+16;delegado 263: ;9.3;9,67E+14;delegado 263: ;0.9;9.19E+07;delegado 263: ;4.0;1,01E+16;delegado 263: ;4.4;9,74E+14;delegado 263: ;12.2;9,09E+14;delegado 263: ;3.7;9,68E+14;delegado 263: ;8.1;1,00E+16;delegado 263: ;1.9;9,36E+14
+delegado 264: ;8.7;1,00E+16;delegado 264: ;9.3;9,70E+14;delegado 264: ;0.9;8.92E+07;delegado 264: ;4.0;1,01E+16;delegado 264: ;4.4;9,58E+14;delegado 264: ;12.2;9,15E+14;delegado 264: ;3.7;9,34E+14;delegado 264: ;8.1;9,82E+14;delegado 264: ;1.9;9,42E+14
+delegado 265: ;8.0;1,16E+16;delegado 265: ;5.9;9,76E+14;delegado 265: ;6.2;1.05E+08;delegado 265: ;3.1;9,85E+14;delegado 265: ;10.0;9,33E+14;delegado 265: ;2.3;9,09E+14;delegado 265: ;1.6;9,28E+13;delegado 265: ;7.6;9,95E+14;delegado 265: ;1.7;9,36E+14
+delegado 266: ;8.0;1,01E+16;delegado 266: ;5.9;9,44E+14;delegado 266: ;6.2;1.04E+08;delegado 266: ;3.1;9,65E+14;delegado 266: ;10.0;9,40E+13;delegado 266: ;2.3;8,98E+14;delegado 266: ;1.6;9,25E+14;delegado 266: ;7.6;9,88E+13;delegado 266: ;1.7;9,43E+13
+delegado 267: ;8.0;1,01E+16;delegado 267: ;5.9;9,52E+14;delegado 267: ;6.2;8.96E+07;delegado 267: ;3.1;9,87E+14;delegado 267: ;10.0;9,64E+14;delegado 267: ;2.3;1,02E+16;delegado 267: ;1.6;9,37E+14;delegado 267: ;7.6;9,23E+14;delegado 267: ;1.7;1,02E+16
+delegado 268: ;10.6;1,01E+16;delegado 268: ;8.2;9,55E+13;delegado 268: ;4.8;9.07E+07;delegado 268: ;1.7;9,90E+14;delegado 268: ;3.2;9,57E+14;delegado 268: ;9.5;1,02E+16;delegado 268: ;2.4;9,30E+14;delegado 268: ;7.3;9,41E+14;delegado 268: ;1.0;1,02E+16
+delegado 269: ;10.6;9,93E+14;delegado 269: ;8.2;9,54E+14;delegado 269: ;4.8;9.05E+07;delegado 269: ;1.7;9,79E+14;delegado 269: ;3.2;9,40E+14;delegado 269: ;9.5;9,91E+14;delegado 269: ;2.4;9,05E+14;delegado 269: ;7.3;9,37E+14;delegado 269: ;1.0;1,02E+16
+delegado 270: ;10.6;9,86E+14;delegado 270: ;8.2;9,52E+14;delegado 270: ;4.8;9.14E+07;delegado 270: ;1.7;9,71E+14;delegado 270: ;3.2;9,75E+14;delegado 270: ;9.5;1,01E+16;delegado 270: ;2.4;8,85E+14;delegado 270: ;7.3;9,22E+14;delegado 270: ;1.0;1,02E+16
+delegado 271: ;7.6;1,01E+16;delegado 271: ;11.2;9,51E+14;delegado 271: ;1.9;9.36E+07;delegado 271: ;2.3;9,50E+14;delegado 271: ;1.9;9,34E+13;delegado 271: ;4.4;1,01E+16;delegado 271: ;2.0;8,91E+14;delegado 271: ;7.2;9,41E+14;delegado 271: ;1.3;1,02E+16
+delegado 272: ;7.6;1,01E+16;delegado 272: ;11.2;9,33E+14;delegado 272: ;1.9;9.41E+07;delegado 272: ;2.3;9,63E+13;delegado 272: ;1.9;9,44E+14;delegado 272: ;4.4;9,89E+13;delegado 272: ;2.0;9,08E+14;delegado 272: ;7.2;9,17E+14;delegado 272: ;1.3;1,02E+16
+delegado 273: ;7.6;9,99E+14;delegado 273: ;11.2;9,31E+14;delegado 273: ;1.9;9.47E+07;delegado 273: ;2.3;9,55E+14;delegado 273: ;1.9;9,22E+14;delegado 273: ;4.4;1,02E+15;delegado 273: ;2.0;8,94E+14;delegado 273: ;7.2;9,10E+14;delegado 273: ;1.3;9,91E+14
+delegado 274: ;6.4;9,38E+14;delegado 274: ;8.0;9,45E+14;delegado 274: ;0.4;9.27E+07;delegado 274: ;6.4;9,51E+14;delegado 274: ;0.7;9,16E+14;delegado 274: ;8.6;9,98E+14;delegado 274: ;2.8;9,19E+14;delegado 274: ;5.6;9,20E+14;delegado 274: ;2.0;9,83E+14
+delegado 275: ;6.4;9,34E+14;delegado 275: ;8.0;9,29E+14;delegado 275: ;0.4;9.05E+07;delegado 275: ;6.4;9,71E+14;delegado 275: ;0.7;9,30E+14;delegado 275: ;8.6;9,17E+14;delegado 275: ;2.8;9,25E+14;delegado 275: ;5.6;9,04E+13;delegado 275: ;2.0;1,00E+14
+delegado 276: ;6.4;9,17E+14;delegado 276: ;8.0;9,37E+14;delegado 276: ;0.4;8.88E+07;delegado 276: ;6.4;9,59E+14;delegado 276: ;0.7;9,17E+14;delegado 276: ;8.6;9,99E+14;delegado 276: ;2.8;9,29E+13;delegado 276: ;5.6;8,98E+12;delegado 276: ;2.0;1,00E+15
+delegado 277: ;6.9;9,31E+14;delegado 277: ;6.2;9,25E+14;delegado 277: ;2.3;8.98E+07;delegado 277: ;2.1;9,46E+14;delegado 277: ;2.4;9,23E+14;delegado 277: ;10.8;9,79E+14;delegado 277: ;3.0;9,25E+14;delegado 277: ;7.3;9,26E+14;delegado 277: ;1.8;1,00E+16
+delegado 278: ;6.9;9,32E+14;delegado 278: ;6.2;9,29E+14;delegado 278: ;2.3;1.00E+08;delegado 278: ;2.1;9,52E+14;delegado 278: ;2.4;9,10E+14;delegado 278: ;10.8;9,32E+14;delegado 278: ;3.0;9,08E+14;delegado 278: ;7.3;9,12E+14;delegado 278: ;1.8;9,26E+14
+delegado 279: ;6.9;9,07E+14;delegado 279: ;6.2;9,32E+14;delegado 279: ;2.3;9.89E+07;delegado 279: ;2.1;9,32E+14;delegado 279: ;2.4;9,18E+14;delegado 279: ;10.8;9,20E+14;delegado 279: ;3.0;9,40E+14;delegado 279: ;7.3;9,01E+14;delegado 279: ;1.8;9,43E+13
+delegado 280: ;6.5;9,19E+14;delegado 280: ;4.9;9,25E+13;delegado 280: ;4.4;9.84E+07;delegado 280: ;1.0;9,52E+14;delegado 280: ;3.4;9,17E+14;delegado 280: ;5.7;9,41E+14;delegado 280: ;3.4;9,05E+14;delegado 280: ;8.7;8,91E+14;delegado 280: ;1.5;9,48E+14
+delegado 281: ;6.5;9,05E+14;delegado 281: ;4.9;9,15E+14;delegado 281: ;4.4;8.72E+07;delegado 281: ;1.0;9,30E+14;delegado 281: ;3.4;9,24E+14;delegado 281: ;5.7;1,03E+16;delegado 281: ;3.4;9,11E+14;delegado 281: ;8.7;8,91E+14;delegado 281: ;1.5;9,41E+14
+delegado 282: ;6.5;9,17E+13;delegado 282: ;4.9;9,22E+14;delegado 282: ;4.4;1.02E+08;delegado 282: ;1.0;9,08E+14;delegado 282: ;3.4;9,05E+14;delegado 282: ;5.7;1,04E+16;delegado 282: ;3.4;9,10E+14;delegado 282: ;8.7;8,89E+14;delegado 282: ;1.5;9,20E+14
+delegado 283: ;7.3;9,11E+14;delegado 283: ;8.3;9,33E+14;delegado 283: ;3.4;1.03E+08;delegado 283: ;2.7;9,14E+14;delegado 283: ;3.1;8,92E+14;delegado 283: ;4.9;1,00E+16;delegado 283: ;2.6;9,00E+14;delegado 283: ;4.4;1,04E+15;delegado 283: ;1.7;9,00E+14
+delegado 284: ;7.3;9,17E+14;delegado 284: ;8.3;9,18E+14;delegado 284: ;3.4;1.03E+08;delegado 284: ;2.7;9,25E+14;delegado 284: ;3.1;9,09E+14;delegado 284: ;4.9;9,99E+14;delegado 284: ;2.6;8,94E+14;delegado 284: ;4.4;1,03E+16;delegado 284: ;1.7;9,26E+14
+delegado 285: ;7.3;9,06E+14;delegado 285: ;8.3;9,19E+14;delegado 285: ;3.4;1.03E+08;delegado 285: ;2.7;9,25E+13;delegado 285: ;3.1;8,95E+13;delegado 285: ;4.9;1,02E+16;delegado 285: ;2.6;9,18E+13;delegado 285: ;4.4;1,02E+16;delegado 285: ;1.7;9,28E+14
+delegado 286: ;6.2;9,01E+14;delegado 286: ;8.3;9,10E+14;delegado 286: ;1.6;9.44E+07;delegado 286: ;1.7;9,27E+14;delegado 286: ;3.4;9,08E+13;delegado 286: ;4.2;1,01E+16;delegado 286: ;9.8;1,03E+16;delegado 286: ;8.0;1,04E+15;delegado 286: ;0.9;9,26E+14
+delegado 287: ;6.2;9,21E+14;delegado 287: ;8.3;9,25E+14;delegado 287: ;1.6;1.03E+08;delegado 287: ;1.7;9,14E+14;delegado 287: ;3.4;8,95E+14;delegado 287: ;4.2;9,47E+14;delegado 287: ;9.8;1,03E+16;delegado 287: ;8.0;1,03E+16;delegado 287: ;0.9;9,30E+13
+delegado 288: ;6.2;9,22E+14;delegado 288: ;8.3;8,91E+14;delegado 288: ;1.6;1.02E+08;delegado 288: ;1.7;9,26E+14;delegado 288: ;3.4;1,05E+16;delegado 288: ;4.2;9,84E+13;delegado 288: ;9.8;1,04E+16;delegado 288: ;8.0;1,03E+16;delegado 288: ;0.9;9,02E+14
+delegado 289: ;6.6;9,14E+14;delegado 289: ;3.8;8,97E+14;delegado 289: ;3.1;1.02E+08;delegado 289: ;0.9;9,22E+14;delegado 289: ;0.3;1,04E+16;delegado 289: ;2.9;9,84E+14;delegado 289: ;9.9;8,79E+14;delegado 289: ;8.0;1,03E+16;delegado 289: ;3.6;9,12E+14
+delegado 290: ;6.6;8,91E+14;delegado 290: ;3.8;9,06E+14;delegado 290: ;3.1;1.02E+08;delegado 290: ;0.9;9,22E+14;delegado 290: ;0.3;1,03E+16;delegado 290: ;2.9;1,02E+16;delegado 290: ;9.9;8,80E+14;delegado 290: ;8.0;1,01E+16;delegado 290: ;3.6;8,94E+14
+delegado 291: ;6.6;8,92E+14;delegado 291: ;3.8;8,85E+13;delegado 291: ;3.1;9.95E+07;delegado 291: ;0.9;9,25E+14;delegado 291: ;0.3;9,05E+14;delegado 291: ;2.9;1,02E+16;delegado 291: ;9.9;1,04E+16;delegado 291: ;8.0;1,03E+16;delegado 291: ;3.6;8,98E+14
+delegado 292: ;14.1;8,90E+14;delegado 292: ;4.1;9,02E+14;delegado 292: ;3.9;1.00E+08;delegado 292: ;2.3;8,83E+14;delegado 292: ;2.3;8,96E+14;delegado 292: ;2.8;9,92E+13;delegado 292: ;8.3;1,02E+16;delegado 292: ;6.3;1,02E+16;delegado 292: ;8.6;9,08E+14
+delegado 293: ;14.1;8,91E+14;delegado 293: ;4.1;8,87E+14;delegado 293: ;3.9;1.03E+08;delegado 293: ;2.3;1,05E+16;delegado 293: ;2.3;1,04E+16;delegado 293: ;2.8;9,89E+14;delegado 293: ;8.3;1,02E+16;delegado 293: ;6.3;1,01E+16;delegado 293: ;8.6;9,00E+14
+delegado 294: ;14.1;8,92E+14;delegado 294: ;4.1;9,31E+14;delegado 294: ;3.9;1.02E+08;delegado 294: ;2.3;1,03E+16;delegado 294: ;2.3;1,02E+16;delegado 294: ;2.8;1,00E+16;delegado 294: ;8.3;1,03E+16;delegado 294: ;6.3;1,00E+16;delegado 294: ;8.6;1,04E+16
+delegado 295: ;8.7;9,10E+14;delegado 295: ;4.9;9,17E+14;delegado 295: ;3.7;9.06E+07;delegado 295: ;0.3;8,95E+13;delegado 295: ;6.2;1,02E+16;delegado 295: ;1.6;9,88E+14;delegado 295: ;5.0;1,02E+16;delegado 295: ;12.5;9,95E+14;delegado 295: ;6.9;8,88E+13
+delegado 296: ;8.7;9,10E+14;delegado 296: ;4.9;9,22E+14;delegado 296: ;3.7;8.32E+07;delegado 296: ;0.3;9,02E+14;delegado 296: ;6.2;1,02E+16;delegado 296: ;1.6;1,01E+16;delegado 296: ;5.0;1,00E+14;delegado 296: ;12.5;9,98E+13;delegado 296: ;6.9;1,05E+16
+delegado 297: ;8.7;1,07E+16;delegado 297: ;4.9;9,37E+14;delegado 297: ;3.7;8.38E+07;delegado 297: ;0.3;8,83E+14;delegado 297: ;6.2;1,02E+16;delegado 297: ;1.6;1,00E+15;delegado 297: ;5.0;1,02E+16;delegado 297: ;12.5;1,00E+16;delegado 297: ;6.9;1,03E+16
+delegado 298: ;7.1;9,38E+13;delegado 298: ;2.3;9,17E+14;delegado 298: ;13.9;8.31E+07;delegado 298: ;2.7;1,04E+16;delegado 298: ;7.4;1,02E+16;delegado 298: ;2.4;1,04E+16;delegado 298: ;3.1;1,00E+16;delegado 298: ;5.9;1,01E+16;delegado 298: ;4.6;1,04E+16
+delegado 299: ;7.1;9,17E+14;delegado 299: ;2.3;9,02E+14;delegado 299: ;13.9;8.69E+07;delegado 299: ;2.7;1,03E+16;delegado 299: ;7.4;1,02E+16;delegado 299: ;2.4;1,01E+16;delegado 299: ;3.1;1,02E+16;delegado 299: ;5.9;9,42E+14;delegado 299: ;4.6;1,02E+15
+delegado 300: ;7.1;9,35E+14;delegado 300: ;2.3;8,75E+14;delegado 300: ;13.9;8.26E+07;delegado 300: ;2.7;1,04E+16;delegado 300: ;7.4;1,00E+16;delegado 300: ;2.4;9,55E+14;delegado 300: ;3.1;1,03E+16;delegado 300: ;5.9;9,22E+14;delegado 300: ;4.6;1,02E+16
+delegado 301: ;7.1;9,30E+14;delegado 301: ;7.7;9,16E+14;delegado 301: ;11.5;8.29E+07;delegado 301: ;2.1;1,03E+16;delegado 301: ;6.9;1,01E+16;delegado 301: ;1.3;9,92E+14;delegado 301: ;2.3;1,03E+15;delegado 301: ;8.0;9,32E+14;delegado 301: ;8.0;1,02E+16
+delegado 302: ;7.1;1,08E+14;delegado 302: ;7.7;8,99E+14;delegado 302: ;11.5;8.29E+07;delegado 302: ;2.1;1,04E+16;delegado 302: ;6.9;1,00E+16;delegado 302: ;1.3;8,80E+13;delegado 302: ;2.3;1,02E+15;delegado 302: ;8.0;9,35E+14;delegado 302: ;8.0;1,03E+16
+delegado 303: ;7.1;9,31E+14;delegado 303: ;7.7;9,16E+14;delegado 303: ;11.5;8.82E+07;delegado 303: ;2.1;1,01E+15;delegado 303: ;6.9;9,88E+14;delegado 303: ;1.3;9,02E+14;delegado 303: ;2.3;9,53E+14;delegado 303: ;8.0;9,39E+14;delegado 303: ;8.0;1,02E+15
+delegado 304: ;6.4;9,47E+14;delegado 304: ;5.1;8,97E+14;delegado 304: ;16.9;8.35E+07;delegado 304: ;2.7;1,01E+16;delegado 304: ;5.7;1,01E+16;delegado 304: ;4.3;9,89E+14;delegado 304: ;4.4;1,02E+16;delegado 304: ;5.1;9,15E+14;delegado 304: ;10.0;9,97E+14
+delegado 305: ;6.4;9,38E+14;delegado 305: ;5.1;9,22E+14;delegado 305: ;16.9;8.42E+07;delegado 305: ;2.7;1,01E+16;delegado 305: ;5.7;9,86E+14;delegado 305: ;4.3;9,94E+14;delegado 305: ;4.4;9,82E+14;delegado 305: ;5.1;9,25E+14;delegado 305: ;10.0;9,97E+14
+delegado 306: ;6.4;9,34E+14;delegado 306: ;5.1;9,17E+14;delegado 306: ;16.9;8.31E+07;delegado 306: ;2.7;1,02E+16;delegado 306: ;5.7;1,01E+16;delegado 306: ;4.3;1,00E+16;delegado 306: ;4.4;1,01E+16;delegado 306: ;5.1;9,27E+14;delegado 306: ;10.0;1,02E+16
+delegado 307: ;5.1;9,16E+14;delegado 307: ;11.8;9,22E+14;delegado 307: ;17.4;8.35E+07;delegado 307: ;3.1;1,01E+15;delegado 307: ;7.2;1,00E+14;delegado 307: ;10.7;8,96E+14;delegado 307: ;5.5;1,02E+16;delegado 307: ;6.7;9,16E+14;delegado 307: ;7.4;1,00E+16
+delegado 308: ;5.1;9,25E+14;delegado 308: ;11.8;9,39E+14;delegado 308: ;17.4;8.40E+07;delegado 308: ;3.1;9,97E+14;delegado 308: ;7.2;9,91E+14;delegado 308: ;10.7;9,58E+14;delegado 308: ;5.5;1,01E+16;delegado 308: ;6.7;9,26E+14;delegado 308: ;7.4;9,96E+13
+delegado 309: ;5.1;9,20E+14;delegado 309: ;11.8;9,37E+14;delegado 309: ;17.4;8.25E+07;delegado 309: ;3.1;9,76E+14;delegado 309: ;7.2;9,78E+14;delegado 309: ;10.7;1,01E+16;delegado 309: ;5.5;9,90E+14;delegado 309: ;6.7;9,26E+14;delegado 309: ;7.4;1,00E+16
+delegado 310: ;8.3;9,26E+14;delegado 310: ;3.7;8,92E+14;delegado 310: ;13.8;8.29E+07;delegado 310: ;4.3;9,80E+13;delegado 310: ;6.6;9,78E+14;delegado 310: ;11.8;1,01E+16;delegado 310: ;7.7;9,94E+14;delegado 310: ;9.8;8,94E+14;delegado 310: ;8.7;9,89E+14
+delegado 311: ;8.3;9,32E+14;delegado 311: ;3.7;8,98E+14;delegado 311: ;13.8;8.41E+07;delegado 311: ;4.3;1,01E+16;delegado 311: ;6.6;9,76E+13;delegado 311: ;11.8;1,05E+16;delegado 311: ;7.7;1,04E+16;delegado 311: ;9.8;1,05E+16;delegado 311: ;8.7;9,96E+13
+delegado 312: ;8.3;8,99E+14;delegado 312: ;3.7;8,88E+13;delegado 312: ;13.8;8.30E+07;delegado 312: ;4.3;9,86E+14;delegado 312: ;6.6;9,74E+14;delegado 312: ;11.8;9,53E+14;delegado 312: ;7.7;9,46E+14;delegado 312: ;9.8;8,97E+14;delegado 312: ;8.7;9,99E+14
+delegado 313: ;7.0;9,07E+14;delegado 313: ;6.7;9,14E+14;delegado 313: ;9;8.22E+07;delegado 313: ;8.7;9,14E+14;delegado 313: ;9.3;9,81E+14;delegado 313: ;4.3;9,80E+14;delegado 313: ;6.4;1,02E+16;delegado 313: ;12.4;8,97E+14;delegado 313: ;7.2;1,01E+16
+delegado 314: ;7.0;9,14E+14;delegado 314: ;6.7;9,12E+14;delegado 314: ;9;8.15E+07;delegado 314: ;8.7;9,41E+14;delegado 314: ;9.3;9,07E+14;delegado 314: ;4.3;9,89E+14;delegado 314: ;6.4;1,01E+16;delegado 314: ;12.4;8,86E+14;delegado 314: ;7.2;1,01E+16
+delegado 315: ;7.0;1,04E+16;delegado 315: ;6.7;9,16E+14;delegado 315: ;9;8.26E+07;delegado 315: ;8.7;9,28E+14;delegado 315: ;9.3;9,13E+13;delegado 315: ;4.3;1,01E+16;delegado 315: ;6.4;1,00E+16;delegado 315: ;12.4;1,03E+16;delegado 315: ;7.2;9,34E+14
+delegado 316: ;8.9;9,22E+14;delegado 316: ;5.5;8,78E+14;delegado 316: ;11.6;8.25E+07;delegado 316: ;3.4;9,24E+14;delegado 316: ;11.4;9,16E+14;delegado 316: ;2.7;9,96E+14;delegado 316: ;4.1;9,93E+14;delegado 316: ;5.6;1,03E+16;delegado 316: ;5.9;9,23E+14
+delegado 317: ;8.9;9,16E+14;delegado 317: ;5.5;8,87E+14;delegado 317: ;11.6;8.19E+07;delegado 317: ;3.4;9,23E+14;delegado 317: ;11.4;9,18E+14;delegado 317: ;2.7;9,94E+13;delegado 317: ;4.1;1,00E+16;delegado 317: ;5.6;1,04E+16;delegado 317: ;5.9;9,25E+14
+delegado 318: ;8.9;8,88E+14;delegado 318: ;5.5;8,85E+14;delegado 318: ;11.6;8.33E+07;delegado 318: ;3.4;9,13E+14;delegado 318: ;11.4;9,14E+14;delegado 318: ;2.7;1,04E+16;delegado 318: ;4.1;1,00E+16;delegado 318: ;5.6;1,05E+16;delegado 318: ;5.9;9,13E+14
+delegado 319: ;5.4;9,05E+14;delegado 319: ;3.3;8,94E+13;delegado 319: ;14.8;8.40E+07;delegado 319: ;1.7;9,25E+14;delegado 319: ;6.3;8,95E+14;delegado 319: ;3.4;1,02E+15;delegado 319: ;0.7;9,83E+14;delegado 319: ;7.0;1,03E+16;delegado 319: ;9.1;9,22E+14
+delegado 320: ;5.4;8,98E+14;delegado 320: ;3.3;1,06E+16;delegado 320: ;14.8;8.22E+07;delegado 320: ;1.7;9,03E+14;delegado 320: ;6.3;9,05E+14;delegado 320: ;3.4;1,00E+16;delegado 320: ;0.7;1,01E+16;delegado 320: ;7.0;9,89E+14;delegado 320: ;9.1;9,20E+14
+delegado 321: ;5.4;9,08E+14;delegado 321: ;3.3;9,29E+14;delegado 321: ;14.8;8.35E+07;delegado 321: ;1.7;9,22E+13;delegado 321: ;6.3;8,94E+14;delegado 321: ;3.4;9,84E+14;delegado 321: ;0.7;1,00E+16;delegado 321: ;7.0;1,02E+16;delegado 321: ;9.1;1,06E+16
+delegado 322: ;4.7;9,07E+14;delegado 322: ;4.1;9,26E+14;delegado 322: ;12.1;8.25E+07;delegado 322: ;2.3;9,30E+14;delegado 322: ;8.7;8,92E+14;delegado 322: ;4.8;1,01E+16;delegado 322: ;3.4;1,01E+16;delegado 322: ;6.2;1,02E+16;delegado 322: ;8.0;8,83E+14
+delegado 323: ;4.7;9,09E+14;delegado 323: ;4.1;9,23E+14;delegado 323: ;12.1;8.23E+07;delegado 323: ;2.3;9,21E+14;delegado 323: ;8.7;8,94E+14;delegado 323: ;4.8;1,01E+16;delegado 323: ;3.4;1,00E+15;delegado 323: ;6.2;1,03E+16;delegado 323: ;8.0;9,08E+14
+delegado 324: ;4.7;9,11E+14;delegado 324: ;4.1;9,37E+14;delegado 324: ;12.1;8.41E+07;delegado 324: ;2.3;1,03E+16;delegado 324: ;8.7;8,91E+14;delegado 324: ;4.8;1,03E+16;delegado 324: ;3.4;9,94E+14;delegado 324: ;6.2;1,03E+16;delegado 324: ;8.0;1,03E+16
+delegado 325: ;10.8;9,13E+14;delegado 325: ;5.7;9,37E+14;delegado 325: ;7.9;8.48E+07;delegado 325: ;1.8;8,86E+14;delegado 325: ;9.5;1,03E+16;delegado 325: ;3.4;1,02E+16;delegado 325: ;5.9;1,02E+16;delegado 325: ;7.6;9,34E+14;delegado 325: ;7.2;9,30E+13
+delegado 326: ;10.8;9,20E+14;delegado 326: ;5.7;9,10E+14;delegado 326: ;7.9;8.47E+07;delegado 326: ;1.8;9,03E+14;delegado 326: ;9.5;1,03E+16;delegado 326: ;3.4;9,92E+14;delegado 326: ;5.9;9,70E+14;delegado 326: ;7.6;9,57E+14;delegado 326: ;7.2;9,39E+14
+delegado 327: ;10.8;9,18E+14;delegado 327: ;5.7;8,90E+14;delegado 327: ;7.9;8.72E+07;delegado 327: ;1.8;9,09E+13;delegado 327: ;9.5;1,03E+16;delegado 327: ;3.4;1,04E+16;delegado 327: ;5.9;1,04E+16;delegado 327: ;7.6;9,44E+14;delegado 327: ;7.2;9,38E+14
+delegado 328: ;7.7;8,89E+12;delegado 328: ;4.7;8,93E+14;delegado 328: ;9.2;8.40E+07;delegado 328: ;3.5;8,93E+14;delegado 328: ;5.5;1,03E+16;delegado 328: ;2.3;9,21E+14;delegado 328: ;4.8;1,01E+16;delegado 328: ;7.9;9,38E+13;delegado 328: ;8.7;9,40E+14
+delegado 329: ;7.7;8,96E+14;delegado 329: ;4.7;8,93E+14;delegado 329: ;9.2;8.55E+07;delegado 329: ;3.5;9,15E+14;delegado 329: ;5.5;1,03E+16;delegado 329: ;2.3;9,21E+14;delegado 329: ;4.8;9,85E+13;delegado 329: ;7.9;9,49E+14;delegado 329: ;8.7;9,26E+14
+delegado 330: ;7.7;8,93E+14;delegado 330: ;4.7;9,10E+13;delegado 330: ;9.2;8.20E+07;delegado 330: ;3.5;9,09E+14;delegado 330: ;5.5;1,02E+16;delegado 330: ;2.3;1,01E+16;delegado 330: ;4.8;9,97E+14;delegado 330: ;7.9;9,52E+13;delegado 330: ;8.7;9,51E+14
+delegado 331: ;6.2;9,00E+14;delegado 331: ;5.2;9,09E+14;delegado 331: ;6.7;8.64E+07;delegado 331: ;1.8;9,32E+14;delegado 331: ;7.7;9,72E+14;delegado 331: ;4.8;1,01E+16;delegado 331: ;6.9;1,02E+16;delegado 331: ;7.4;9,50E+14;delegado 331: ;9.8;9,08E+14
+delegado 332: ;6.2;9,00E+14;delegado 332: ;5.2;1,03E+16;delegado 332: ;6.7;8.39E+07;delegado 332: ;1.8;9,34E+13;delegado 332: ;7.7;1,01E+16;delegado 332: ;4.8;9,13E+13;delegado 332: ;6.9;1,00E+16;delegado 332: ;7.4;9,50E+14;delegado 332: ;9.8;9,18E+14
+delegado 333: ;6.2;8,92E+14;delegado 333: ;5.2;1,01E+16;delegado 333: ;6.7;8.26E+07;delegado 333: ;1.8;9,28E+14;delegado 333: ;7.7;1,02E+16;delegado 333: ;4.8;1,02E+16;delegado 333: ;6.9;1,02E+16;delegado 333: ;7.4;9,39E+14;delegado 333: ;9.8;9,04E+14
+delegado 334: ;5.5;9,33E+14;delegado 334: ;9.9;1,02E+15;delegado 334: ;9.9;8.35E+07;delegado 334: ;1.6;9,23E+14;delegado 334: ;4.7;1,01E+16;delegado 334: ;3.8;9,12E+14;delegado 334: ;10.7;1,01E+16;delegado 334: ;5.9;9,47E+14;delegado 334: ;9.7;9,04E+14
+delegado 335: ;5.5;9,23E+14;delegado 335: ;9.9;1,03E+16;delegado 335: ;9.9;8.51E+07;delegado 335: ;1.6;9,03E+14;delegado 335: ;4.7;9,83E+14;delegado 335: ;3.8;8,95E+14;delegado 335: ;10.7;1,01E+16;delegado 335: ;5.9;9,31E+14;delegado 335: ;9.7;9,09E+14
+delegado 336: ;5.5;9,30E+14;delegado 336: ;9.9;1,03E+16;delegado 336: ;9.9;8.39E+07;delegado 336: ;1.6;9,08E+14;delegado 336: ;4.7;9,90E+13;delegado 336: ;3.8;9,08E+14;delegado 336: ;10.7;1,04E+16;delegado 336: ;5.9;9,23E+14;delegado 336: ;9.7;9,10E+14
+delegado 337: ;8.0;9,26E+14;delegado 337: ;2.6;9,95E+13;delegado 337: ;6.7;1.24E+08;delegado 337: ;1.3;9,22E+14;delegado 337: ;7.9;9,84E+14;delegado 337: ;0.6;1,01E+16;delegado 337: ;3.4;1,04E+16;delegado 337: ;8.2;9,38E+14;delegado 337: ;8.5;1,06E+16
+delegado 338: ;8.0;9,22E+14;delegado 338: ;2.6;9,97E+12;delegado 338: ;6.7;8.37E+07;delegado 338: ;1.3;9,07E+14;delegado 338: ;7.9;9,85E+14;delegado 338: ;0.6;1,01E+16;delegado 338: ;3.4;9,69E+14;delegado 338: ;8.2;9,42E+14;delegado 338: ;8.5;9,00E+14
+delegado 339: ;8.0;9,03E+14;delegado 339: ;2.6;1,02E+16;delegado 339: ;6.7;9.23E+07;delegado 339: ;1.3;9,24E+13;delegado 339: ;7.9;9,89E+14;delegado 339: ;0.6;9,69E+14;delegado 339: ;3.4;1,00E+16;delegado 339: ;8.2;9,32E+14;delegado 339: ;8.5;8,86E+14
+delegado 340: ;8.1;1,06E+16;delegado 340: ;11.4;9,94E+14;delegado 340: ;4;1.22E+08;delegado 340: ;2.3;8,93E+14;delegado 340: ;10.8;9,66E+14;delegado 340: ;2.0;9,96E+14;delegado 340: ;1.0;1,00E+16;delegado 340: ;5.4;9,25E+13;delegado 340: ;7.5;9,08E+14
+delegado 341: ;8.1;1,06E+16;delegado 341: ;11.4;9,95E+14;delegado 341: ;4;1.09E+08;delegado 341: ;2.3;9,01E+14;delegado 341: ;10.8;9,72E+14;delegado 341: ;2.0;1,01E+16;delegado 341: ;1.0;1,01E+16;delegado 341: ;5.4;9,08E+14;delegado 341: ;7.5;1,04E+15
+delegado 342: ;8.1;9,15E+14;delegado 342: ;11.4;9,70E+14;delegado 342: ;4;1.11E+08;delegado 342: ;2.3;8,91E+14;delegado 342: ;10.8;9,65E+14;delegado 342: ;2.0;9,91E+14;delegado 342: ;1.0;1,01E+16;delegado 342: ;5.4;9,24E+14;delegado 342: ;7.5;1,04E+16
+delegado 343: ;10.1;9,20E+14;delegado 343: ;9.0;9,77E+14;delegado 343: ;3.7;1.12E+08;delegado 343: ;4.4;8,94E+14;delegado 343: ;11.0;9,70E+14;delegado 343: ;1.2;1,03E+15;delegado 343: ;2.4;9,92E+14;delegado 343: ;8.3;9,25E+14;delegado 343: ;7.0;1,03E+16
+delegado 344: ;10.1;9,04E+14;delegado 344: ;9.0;9,72E+14;delegado 344: ;3.7;1.08E+08;delegado 344: ;4.4;8,91E+14;delegado 344: ;11.0;9,69E+14;delegado 344: ;1.2;1,03E+16;delegado 344: ;2.4;1,00E+15;delegado 344: ;8.3;9,16E+14;delegado 344: ;7.0;1,02E+16
+delegado 345: ;10.1;8,76E+14;delegado 345: ;9.0;9,72E+14;delegado 345: ;3.7;1.12E+08;delegado 345: ;4.4;8,90E+14;delegado 345: ;11.0;9,70E+14;delegado 345: ;1.2;1,02E+16;delegado 345: ;2.4;9,81E+14;delegado 345: ;8.3;9,17E+14;delegado 345: ;7.0;1,04E+16
+delegado 346: ;7.0;8,97E+14;delegado 346: ;14.1;9,70E+14;delegado 346: ;7.7;1.14E+08;delegado 346: ;11.1;1,05E+16;delegado 346: ;11.1;9,12E+14;delegado 346: ;2.1;1,04E+16;delegado 346: ;4.1;9,84E+14;delegado 346: ;10.1;8,81E+14;delegado 346: ;7.7;1,00E+16
+delegado 347: ;7.0;1,04E+16;delegado 347: ;14.1;9,97E+14;delegado 347: ;7.7;1.02E+08;delegado 347: ;11.1;1,05E+16;delegado 347: ;11.1;9,12E+14;delegado 347: ;2.1;9,94E+13;delegado 347: ;4.1;9,83E+14;delegado 347: ;10.1;8,99E+14;delegado 347: ;7.7;1,01E+16
+delegado 348: ;7.0;1,02E+16;delegado 348: ;14.1;9,48E+14;delegado 348: ;7.7;1.20E+08;delegado 348: ;11.1;8,81E+14;delegado 348: ;11.1;9,14E+13;delegado 348: ;2.1;9,98E+14;delegado 348: ;4.1;1,00E+16;delegado 348: ;10.1;8,97E+14;delegado 348: ;7.7;9,94E+14
+delegado 349: ;8.5;1,01E+16;delegado 349: ;6.1;9,12E+14;delegado 349: ;32.8;1.22E+08;delegado 349: ;2.0;1,05E+16;delegado 349: ;12.4;9,15E+14;delegado 349: ;4.2;1,02E+16;delegado 349: ;25.6;1,00E+16;delegado 349: ;9.9;1,05E+16;delegado 349: ;8.1;9,90E+14
+delegado 350: ;8.5;9,43E+14;delegado 350: ;6.1;9,52E+14;delegado 350: ;32.8;1.03E+08;delegado 350: ;2.0;8,97E+14;delegado 350: ;12.4;8,98E+14;delegado 350: ;4.2;1,02E+15;delegado 350: ;25.6;1,01E+16;delegado 350: ;9.9;8,99E+14;delegado 350: ;8.1;1,02E+16
+delegado 351: ;8.5;9,41E+13;delegado 351: ;6.1;9,62E+14;delegado 351: ;32.8;1.10E+08;delegado 351: ;2.0;1,02E+16;delegado 351: ;12.4;1,02E+16;delegado 351: ;4.2;1,00E+16;delegado 351: ;25.6;9,75E+14;delegado 351: ;9.9;8,88E+14;delegado 351: ;8.1;1,01E+16
+delegado 352: ;5.7;1,04E+16;delegado 352: ;5.7;9,73E+13;delegado 352: ;21.8;1.29E+08;delegado 352: ;2.6;1,00E+16;delegado 352: ;13.5;1,03E+16;delegado 352: ;12.1;9,55E+14;delegado 352: ;5.9;1,02E+16;delegado 352: ;7.3;1,03E+15;delegado 352: ;7.2;9,85E+14
+delegado 353: ;5.7;1,04E+16;delegado 353: ;5.7;9,45E+14;delegado 353: ;21.8;1.10E+08;delegado 353: ;2.6;9,52E+14;delegado 353: ;13.5;1,03E+16;delegado 353: ;12.1;1,00E+16;delegado 353: ;5.9;9,60E+14;delegado 353: ;7.3;1,03E+16;delegado 353: ;7.2;9,91E+14
+delegado 354: ;5.7;1,03E+16;delegado 354: ;5.7;9,29E+14;delegado 354: ;9.4;1.10E+08;delegado 354: ;2.6;9,84E+14;delegado 354: ;13.5;1,03E+16;delegado 354: ;12.1;1,01E+16;delegado 354: ;5.9;9,80E+14;delegado 354: ;7.3;1,04E+16;delegado 354: ;7.2;9,87E+14
+delegado 355: ;7.3;9,26E+14;delegado 355: ;5.8;9,37E+13;delegado 355: ;9.4;1.14E+08;delegado 355: ;2.9;1,02E+16;delegado 355: ;10.6;1,03E+16;delegado 355: ;10.8;1,01E+14;delegado 355: ;4.8;1,01E+16;delegado 355: ;7.5;1,03E+15;delegado 355: ;8.3;9,81E+14
+delegado 356: ;7.3;9,43E+14;delegado 356: ;5.8;9,35E+14;delegado 356: ;9.4;1.10E+08;delegado 356: ;2.9;9,31E+14;delegado 356: ;10.6;1,00E+16;delegado 356: ;10.8;1,01E+16;delegado 356: ;4.8;9,81E+14;delegado 356: ;7.5;1,02E+16;delegado 356: ;8.3;9,81E+14
+delegado 357: ;7.3;9,33E+14;delegado 357: ;5.8;9,41E+14;delegado 357: ;0.7;1.10E+08;delegado 357: ;2.9;9,22E+14;delegado 357: ;10.6;1,00E+16;delegado 357: ;10.8;9,81E+14;delegado 357: ;4.8;1,01E+15;delegado 357: ;7.5;1,01E+16;delegado 357: ;8.3;9,73E+14
+delegado 358: ;5.7;9,48E+14;delegado 358: ;1.0;9,12E+14;delegado 358: ;0.7;1.07E+08;delegado 358: ;3.2;9,16E+14;delegado 358: ;11.8;1,00E+15;delegado 358: ;2.7;9,14E+13;delegado 358: ;3.8;9,54E+14;delegado 358: ;6.5;1,02E+15;delegado 358: ;9.0;9,74E+14
+delegado 359: ;5.7;9,29E+14;delegado 359: ;1.0;8,92E+14;delegado 359: ;0.7;1.11E+08;delegado 359: ;3.2;9,12E+14;delegado 359: ;11.8;1,00E+16;delegado 359: ;2.7;9,07E+13;delegado 359: ;3.8;9,92E+14;delegado 359: ;6.5;1,02E+16;delegado 359: ;9.0;9,79E+14
+delegado 360: ;5.7;9,19E+13;delegado 360: ;1.0;8,96E+13;delegado 360: ;3.7;1.13E+08;delegado 360: ;3.2;9,36E+13;delegado 360: ;11.8;1,04E+16;delegado 360: ;2.7;9,45E+14;delegado 360: ;3.8;9,82E+13;delegado 360: ;6.5;1,00E+16;delegado 360: ;9.0;9,70E+14
+delegado 361: ;7.6;9,02E+14;delegado 361: ;1.3;9,11E+14;delegado 361: ;3.7;1.04E+08;delegado 361: ;1.6;9,08E+14;delegado 361: ;9.2;1,00E+15;delegado 361: ;2.7;9,92E+14;delegado 361: ;0.9;1,03E+16;delegado 361: ;6.9;1,01E+16;delegado 361: ;8.9;9,78E+14
+delegado 362: ;7.6;9,14E+14;delegado 362: ;1.3;9,06E+14;delegado 362: ;3.7;9.65E+07;delegado 362: ;1.6;9,11E+14;delegado 362: ;9.2;9,57E+13;delegado 362: ;2.7;1,02E+16;delegado 362: ;0.9;9,90E+14;delegado 362: ;6.9;9,93E+14;delegado 362: ;8.9;9,77E+14
+delegado 363: ;7.6;9,10E+14;delegado 363: ;1.3;8,96E+14;delegado 363: ;3.1;9.06E+07;delegado 363: ;1.6;8,90E+13;delegado 363: ;9.2;9,57E+14;delegado 363: ;2.7;8,96E+14;delegado 363: ;0.9;1,02E+15;delegado 363: ;6.9;1,01E+16;delegado 363: ;8.9;9,67E+14
+delegado 364: ;5.1;9,04E+12;delegado 364: ;1.3;1,03E+16;delegado 364: ;3.1;9.75E+07;delegado 364: ;3.6;1,00E+16;delegado 364: ;8.3;9,56E+14;delegado 364: ;0.7;9,58E+14;delegado 364: ;2.1;9,91E+14;delegado 364: ;9.2;1,02E+16;delegado 364: ;7.2;9,61E+14
+delegado 365: ;5.1;9,00E+14;delegado 365: ;1.3;1,06E+15;delegado 365: ;3.1;9.78E+07;delegado 365: ;3.6;9,06E+14;delegado 365: ;8.3;9,74E+13;delegado 365: ;0.7;9,57E+14;delegado 365: ;2.1;9,74E+14;delegado 365: ;9.2;1,01E+16;delegado 365: ;7.2;9,53E+14
+delegado 366: ;5.1;1,03E+16;delegado 366: ;1.3;9,03E+14;delegado 366: ;2.9;9.72E+07;delegado 366: ;3.6;9,00E+14;delegado 366: ;8.3;9,55E+14;delegado 366: ;0.7;1,01E+16;delegado 366: ;2.1;9,99E+14;delegado 366: ;9.2;1,00E+16;delegado 366: ;7.2;9,60E+14
+delegado 367: ;8.0;1,04E+15;delegado 367: ;2.3;9,03E+14;delegado 367: ;2.9;9.79E+07;delegado 367: ;10.2;1,04E+16;delegado 367: ;7.3;9,37E+14;delegado 367: ;5.2;1,00E+16;delegado 367: ;3.4;1,00E+16;delegado 367: ;10.3;9,47E+14;delegado 367: ;8.6;9,57E+14
+delegado 368: ;8.0;9,06E+13;delegado 368: ;2.3;9,02E+14;delegado 368: ;2.9;9.81E+07;delegado 368: ;10.2;8,80E+13;delegado 368: ;7.3;9,33E+14;delegado 368: ;5.2;1,01E+16;delegado 368: ;3.4;1,02E+16;delegado 368: ;10.3;9,29E+14;delegado 368: ;8.6;9,33E+14
+delegado 369: ;8.0;8,96E+14;delegado 369: ;2.3;9,12E+13;delegado 369: ;0.9;9.27E+07;delegado 369: ;10.2;9,48E+14;delegado 369: ;7.3;9,46E+14;delegado 369: ;5.2;9,73E+14;delegado 369: ;3.4;1,01E+16;delegado 369: ;10.3;9,29E+14;delegado 369: ;8.6;9,40E+14
+delegado 370: ;5.5;8,98E+14;delegado 370: ;2.1;9,31E+14;delegado 370: ;0.9;9.45E+07;delegado 370: ;17.3;9,73E+14;delegado 370: ;3.8;9,46E+14;delegado 370: ;4.1;1,02E+16;delegado 370: ;2.4;1,00E+16;delegado 370: ;8.4;9,39E+14;delegado 370: ;8.4;9,32E+14
+delegado 371: ;5.5;9,45E+14;delegado 371: ;2.1;9,31E+14;delegado 371: ;0.9;9.55E+07;delegado 371: ;17.3;9,67E+14;delegado 371: ;3.8;9,47E+14;delegado 371: ;4.1;1,06E+16;delegado 371: ;2.4;1,01E+16;delegado 371: ;8.4;9,41E+14;delegado 371: ;8.4;9,46E+14
+delegado 372: ;5.5;9,27E+14;delegado 372: ;2.1;9,29E+14;delegado 372: ;6.3;9.89E+07;delegado 372: ;17.3;9,24E+14;delegado 372: ;3.8;8,99E+13;delegado 372: ;4.1;9,67E+13;delegado 372: ;2.4;1,00E+16;delegado 372: ;8.4;9,22E+14;delegado 372: ;8.4;9,48E+14
+delegado 373: ;6.6;9,44E+14;delegado 373: ;0.7;9,32E+14;delegado 373: ;6.3;1.09E+08;delegado 373: ;3.9;9,24E+14;delegado 373: ;2.6;9,14E+14;delegado 373: ;2.6;9,71E+14;delegado 373: ;1.4;9,90E+14;delegado 373: ;8.2;9,20E+14;delegado 373: ;7.2;9,49E+14
+delegado 374: ;6.6;9,34E+14;delegado 374: ;0.7;9,16E+14;delegado 374: ;6.3;9.79E+07;delegado 374: ;3.9;9,85E+14;delegado 374: ;2.6;9,03E+14;delegado 374: ;2.6;1,01E+16;delegado 374: ;1.4;9,83E+14;delegado 374: ;8.2;9,23E+14;delegado 374: ;7.2;9,16E+14
+delegado 375: ;6.6;9,23E+14;delegado 375: ;0.7;8,96E+14;delegado 375: ;2.5;1.03E+08;delegado 375: ;3.9;9,72E+14;delegado 375: ;2.6;8,99E+14;delegado 375: ;2.6;1,02E+16;delegado 375: ;1.4;1,02E+16;delegado 375: ;8.2;9,28E+14;delegado 375: ;7.2;9,21E+14
+delegado 376: ;11.5;9,33E+14;delegado 376: ;8.6;9,14E+14;delegado 376: ;2.5;9.27E+07;delegado 376: ;2.7;9,52E+14;delegado 376: ;7.7;9,11E+14;delegado 376: ;1.9;9,47E+13;delegado 376: ;1.3;9,93E+14;delegado 376: ;11.3;8,76E+14;delegado 376: ;4.5;9,14E+14
+delegado 377: ;11.5;9,17E+14;delegado 377: ;8.6;8,99E+14;delegado 377: ;2.5;9.49E+07;delegado 377: ;2.7;1,03E+16;delegado 377: ;7.7;9,27E+14;delegado 377: ;1.9;9,37E+14;delegado 377: ;1.3;1,00E+16;delegado 377: ;11.3;1,09E+16;delegado 377: ;4.5;9,32E+14
+delegado 378: ;11.5;9,15E+14;delegado 378: ;8.6;8,96E+14;delegado 378: ;3.3;9.92E+07;delegado 378: ;2.7;1,03E+16;delegado 378: ;7.7;1,07E+16;delegado 378: ;1.9;9,81E+14;delegado 378: ;1.3;9,64E+14;delegado 378: ;11.3;1,03E+16;delegado 378: ;4.5;9,28E+14
+delegado 379: ;6.5;9,27E+14;delegado 379: ;11.4;9,00E+14;delegado 379: ;3.3;1.01E+08;delegado 379: ;3.2;1,03E+16;delegado 379: ;4.0;8,87E+14;delegado 379: ;0.9;1,03E+15;delegado 379: ;1.7;9,91E+14;delegado 379: ;7.6;1,05E+16;delegado 379: ;6.9;9,09E+14
+delegado 380: ;6.5;9,15E+13;delegado 380: ;11.4;9,17E+14;delegado 380: ;3.3;9.76E+07;delegado 380: ;3.2;9,80E+14;delegado 380: ;4.0;9,05E+14;delegado 380: ;0.9;9,27E+14;delegado 380: ;1.7;9,76E+14;delegado 380: ;7.6;8,27E+14;delegado 380: ;6.9;9,07E+14
+delegado 381: ;6.5;9,10E+14;delegado 381: ;11.4;9,39E+14;delegado 381: ;0.1;1.12E+08;delegado 381: ;3.2;9,90E+14;delegado 381: ;4.0;8,99E+14;delegado 381: ;0.9;9,69E+14;delegado 381: ;1.7;1,00E+15;delegado 381: ;7.6;1,00E+16;delegado 381: ;6.9;9,07E+13
+delegado 382: ;11.8;9,19E+14;delegado 382: ;9.0;9,19E+13;delegado 382: ;0.1;1.10E+08;delegado 382: ;2.0;9,96E+14;delegado 382: ;4.7;8,97E+14;delegado 382: ;4.3;9,82E+14;delegado 382: ;1.3;1,00E+16;delegado 382: ;11.1;1,11E+16;delegado 382: ;8.5;9,08E+14
+delegado 383: ;11.8;9,17E+13;delegado 383: ;9.0;9,16E+14;delegado 383: ;0.1;9.54E+07;delegado 383: ;2.0;9,66E+12;delegado 383: ;4.7;1,03E+16;delegado 383: ;4.3;9,82E+14;delegado 383: ;1.3;9,66E+14;delegado 383: ;11.1;1,06E+15;delegado 383: ;8.5;9,15E+14
+delegado 384: ;11.8;9,21E+14;delegado 384: ;9.0;9,16E+14;delegado 384: ;4.1;1.10E+08;delegado 384: ;2.0;9,48E+14;delegado 384: ;4.7;1,02E+16;delegado 384: ;4.3;1,03E+16;delegado 384: ;1.3;8,84E+14;delegado 384: ;11.1;1,08E+16;delegado 384: ;8.5;9,08E+14
+delegado 385: ;11.1;9,13E+14;delegado 385: ;8.7;9,01E+14;delegado 385: ;4.1;9.13E+07;delegado 385: ;4.1;9,48E+13;delegado 385: ;5.9;1,03E+15;delegado 385: ;2.3;9,21E+13;delegado 385: ;3.3;9,99E+14;delegado 385: ;4.5;1,10E+16;delegado 385: ;8.3;8,86E+14
+delegado 386: ;11.1;9,25E+14;delegado 386: ;8.7;9,00E+14;delegado 386: ;4.1;9.87E+07;delegado 386: ;4.1;9,85E+14;delegado 386: ;5.9;1,03E+16;delegado 386: ;2.3;1,02E+16;delegado 386: ;3.3;9,90E+14;delegado 386: ;4.5;1,06E+16;delegado 386: ;8.3;1,05E+16
+delegado 387: ;11.1;8,85E+14;delegado 387: ;8.7;9,15E+14;delegado 387: ;6.9;9.68E+07;delegado 387: ;4.1;1,02E+16;delegado 387: ;5.9;1,04E+16;delegado 387: ;2.3;9,86E+14;delegado 387: ;3.3;1,02E+16;delegado 387: ;4.5;1,02E+16;delegado 387: ;8.3;8,99E+14
+delegado 388: ;5.7;8,90E+14;delegado 388: ;7.7;9,09E+13;delegado 388: ;6.9;9.95E+07;delegado 388: ;1.4;9,50E+14;delegado 388: ;7.2;1,00E+15;delegado 388: ;6.8;1,01E+16;delegado 388: ;3.8;9,76E+14;delegado 388: ;7.6;1,17E+16;delegado 388: ;7.8;9,08E+14
+delegado 389: ;5.7;8,84E+14;delegado 389: ;7.7;9,07E+14;delegado 389: ;6.9;1.04E+08;delegado 389: ;1.4;9,38E+14;delegado 389: ;7.2;1,01E+16;delegado 389: ;6.8;8,89E+14;delegado 389: ;3.8;1,01E+16;delegado 389: ;7.6;1,18E+16;delegado 389: ;7.8;8,89E+14
+delegado 390: ;5.7;8,81E+14;delegado 390: ;7.7;9,03E+14;delegado 390: ;6.9;1.02E+08;delegado 390: ;1.4;9,54E+14;delegado 390: ;7.2;1,02E+16;delegado 390: ;6.8;1,01E+16;delegado 390: ;3.8;9,90E+14;delegado 390: ;7.6;1,18E+16;delegado 390: ;7.8;1,03E+16
+delegado 391: ;4.7;9,01E+14;delegado 391: ;4.1;8,76E+14;delegado 391: ;6.9;9.82E+07;delegado 391: ;0.9;9,46E+14;delegado 391: ;2.9;1,02E+16;delegado 391: ;10.8;9,89E+14;delegado 391: ;3.4;9,56E+13;delegado 391: ;9.7;1,02E+16;delegado 391: ;5.2;1,03E+16
+delegado 392: ;4.7;9,01E+14;delegado 392: ;4.1;1,04E+16;delegado 392: ;6.9;1.02E+08;delegado 392: ;0.9;9,52E+14;delegado 392: ;2.9;1,03E+15;delegado 392: ;10.8;1,01E+16;delegado 392: ;3.4;1,02E+16;delegado 392: ;9.7;1,19E+16;delegado 392: ;5.2;1,03E+16
+delegado 393: ;4.7;1,03E+16;delegado 393: ;4.1;1,05E+16;delegado 393: ;1;9.60E+07;delegado 393: ;0.9;9,52E+14;delegado 393: ;2.9;9,77E+13;delegado 393: ;10.8;9,80E+14;delegado 393: ;3.4;9,72E+14;delegado 393: ;9.7;1,18E+16;delegado 393: ;5.2;1,02E+16
+delegado 394: ;7.9;1,03E+16;delegado 394: ;4.4;1,05E+16;delegado 394: ;1;1.04E+08;delegado 394: ;2.0;9,83E+14;delegado 394: ;4.8;9,76E+14;delegado 394: ;1.3;1,03E+16;delegado 394: ;4.2;9,12E+14;delegado 394: ;9.1;1,04E+16;delegado 394: ;9.2;1,03E+16
+delegado 395: ;7.9;8,74E+14;delegado 395: ;4.4;8,99E+13;delegado 395: ;1;9.98E+07;delegado 395: ;2.0;9,37E+14;delegado 395: ;4.8;9,82E+14;delegado 395: ;1.3;9,97E+14;delegado 395: ;4.2;9,87E+14;delegado 395: ;9.1;1,20E+16;delegado 395: ;9.2;1,02E+16
+delegado 396: ;7.9;1,04E+15;delegado 396: ;4.4;1,02E+16;delegado 396: ;3.8;1.01E+08;delegado 396: ;2.0;9,37E+14;delegado 396: ;4.8;9,86E+14;delegado 396: ;1.3;1,02E+16;delegado 396: ;4.2;1,02E+16;delegado 396: ;9.1;1,01E+16;delegado 396: ;9.2;1,00E+15
+delegado 397: ;2.6;1,06E+16;delegado 397: ;5.2;1,02E+16;delegado 397: ;3.8;1.00E+08;delegado 397: ;3.5;9,58E+14;delegado 397: ;30.5;1,00E+15;delegado 397: ;1.6;1,04E+16;delegado 397: ;1.0;9,27E+14;delegado 397: ;7.9;8,29E+14;delegado 397: ;6.4;1,03E+16
+delegado 398: ;2.6;9,26E+14;delegado 398: ;5.2;1,01E+16;delegado 398: ;3.8;1.03E+08;delegado 398: ;3.5;9,50E+13;delegado 398: ;30.5;9,75E+13;delegado 398: ;1.6;9,77E+14;delegado 398: ;1.0;9,90E+14;delegado 398: ;7.9;8,36E+14;delegado 398: ;6.4;1,02E+16
+delegado 399: ;2.6;9,25E+14;delegado 399: ;5.2;1,04E+15;delegado 399: ;4.5;9.91E+07;delegado 399: ;3.5;9,19E+14;delegado 399: ;30.5;9,23E+14;delegado 399: ;1.6;1,04E+16;delegado 399: ;1.0;9,60E+13;delegado 399: ;7.9;8,37E+14;delegado 399: ;6.4;1,02E+16
