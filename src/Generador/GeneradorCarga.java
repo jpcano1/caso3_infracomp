@@ -10,8 +10,8 @@ public class GeneradorCarga {
 	public GeneradorCarga()
 	{
 		//Task task = createTask();
-		int numtareas = 100;
-		int tiempoEntreTareas = 0;
+		int numtareas = 400;
+		int tiempoEntreTareas = 20;
 		Task clientTask= new ClienteTask();
 		
 		generador = new LoadGenerator("", numtareas, clientTask ,tiempoEntreTareas );

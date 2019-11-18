@@ -274,7 +274,7 @@ public class D extends Thread {
 	 */
 	public void printFile(String pDelegado, double pMem, double pTemp)
 	{
-		File fl = new File("./data/Libro10.csv");
+		File fl = new File("./data/Libro8.csv");
 		try
 		{
 			FileWriter fp = new FileWriter(fl, true);

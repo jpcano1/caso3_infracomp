@@ -48,7 +48,7 @@ public class P {
         
         D.init(certSer, keyPairServidor, file);
         
-        int numeroDeThreads = 2;
+        int numeroDeThreads = 1;
         final ExecutorService pool = Executors.newFixedThreadPool(numeroDeThreads);
         
 		// Crea el socket que escucha en el puerto seleccionado.
